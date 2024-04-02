@@ -363,6 +363,16 @@
 "Assets/Mini First Person Controller/Scripts/Components/Zoom.cs"
 "Assets/Mini First Person Controller/Scripts/FirstPersonLook.cs"
 "Assets/Mini First Person Controller/Scripts/FirstPersonMovement.cs"
+"Assets/Scripts/BulletBehavior.cs"
+"Assets/Scripts/EnemyDeath.cs"
+"Assets/Scripts/FollowPlayer.cs"
+"Assets/Scripts/GameOverScreen.cs"
+"Assets/Scripts/GUI.cs"
+"Assets/Scripts/Kills.cs"
+"Assets/Scripts/LightsaberSwingScript.cs"
+"Assets/Scripts/PlayerDeath.cs"
+"Assets/Scripts/ReloadScene.cs"
+"Assets/Scripts/SpawnEnemies.cs"
 -langversion:9.0
 
 /deterministic
