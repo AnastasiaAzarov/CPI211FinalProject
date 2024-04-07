@@ -1298,3 +1298,19 @@ AssetImportParameters requested are different than current active one (requested
   custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 358.534181 seconds.
+  path: Assets/Arena/Gladiators Low Poly Arena/Materials/ArenaMaterial.mat
+  artifactKey: Guid(c07a83a7d48b561409f63d90157db441) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Arena/Gladiators Low Poly Arena/Materials/ArenaMaterial.mat using Guid(c07a83a7d48b561409f63d90157db441) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2cd972bd76828d06cfc8a2070643d5b8') in 0.067009 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 4
+========================================================================
+Received Import Request.
+  Time since last request: 30.848695 seconds.
+  path: Assets/Arena/Gladiators Low Poly Arena/Prefabs/Gladiator Low Poly Arena.prefab
+  artifactKey: Guid(4a769d0345654f345be733003b50a3e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Arena/Gladiators Low Poly Arena/Prefabs/Gladiator Low Poly Arena.prefab using Guid(4a769d0345654f345be733003b50a3e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '41cc91f42490ad37229a656add28d87b') in 0.046872 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 194
