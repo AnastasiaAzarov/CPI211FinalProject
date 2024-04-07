@@ -1314,3 +1314,107 @@ Received Import Request.
 Start importing Assets/Arena/Gladiators Low Poly Arena/Prefabs/Gladiator Low Poly Arena.prefab using Guid(4a769d0345654f345be733003b50a3e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '41cc91f42490ad37229a656add28d87b') in 0.046872 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 194
+========================================================================
+Received Import Request.
+  Time since last request: 184.891280 seconds.
+  path: Assets/Arena/Gladiators Low Poly Arena/Textures/Obi-Wan_wanted_poster.jpg
+  artifactKey: Guid(4428f1d5c80b2422cb5ffc9040c460d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Arena/Gladiators Low Poly Arena/Textures/Obi-Wan_wanted_poster.jpg using Guid(4428f1d5c80b2422cb5ffc9040c460d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ebe89263251303fd39cfac4fd33600f6') in 0.010497 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 20.930441 seconds.
+  path: Assets/Arena/Gladiators Low Poly Arena/Materials/Obi-WanWantedPoster.mat
+  artifactKey: Guid(0e99313c6ddc74e3ca9f0f6bc13f30ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Arena/Gladiators Low Poly Arena/Materials/Obi-WanWantedPoster.mat using Guid(0e99313c6ddc74e3ca9f0f6bc13f30ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd2aced177842f15c12da768751e5e55f') in 0.008655 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 106.469268 seconds.
+  path: Assets/Arena/Gladiators Low Poly Arena/Textures/Jedi_Wanted_poster.jpg
+  artifactKey: Guid(0cb2c2831e5dd40809eb2007baae223e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Arena/Gladiators Low Poly Arena/Textures/Jedi_Wanted_poster.jpg using Guid(0cb2c2831e5dd40809eb2007baae223e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '96d01eceb86f05e00ee802b2aa4482ed') in 0.007986 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 16.335697 seconds.
+  path: Assets/Arena/Gladiators Low Poly Arena/Materials/JediWantedPoster.mat
+  artifactKey: Guid(4281a25d4212442e8b41584738f70bb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Arena/Gladiators Low Poly Arena/Materials/JediWantedPoster.mat using Guid(4281a25d4212442e8b41584738f70bb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dec62316da746b6cc718bd94e7b943f4') in 0.007161 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 27.039280 seconds.
+  path: Assets/Arena/Gladiators Low Poly Arena/Materials/JediWantedPoster.mat
+  artifactKey: Guid(4281a25d4212442e8b41584738f70bb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Arena/Gladiators Low Poly Arena/Materials/JediWantedPoster.mat using Guid(4281a25d4212442e8b41584738f70bb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e4a89cf9663c839058cde81cd655bfa9') in 0.010860 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 4
+========================================================================
+Received Import Request.
+  Time since last request: 140.665228 seconds.
+  path: Assets/Arena/Gladiators Low Poly Arena/Textures/cal_kestis_wanted.jpg
+  artifactKey: Guid(16970937442d34dcb8b69e02bac8e71d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Arena/Gladiators Low Poly Arena/Textures/cal_kestis_wanted.jpg using Guid(16970937442d34dcb8b69e02bac8e71d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f0a4433541091cba0e15e0178c139d71') in 0.007324 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 23.953689 seconds.
+  path: Assets/Arena/Gladiators Low Poly Arena/Materials/CalKestisWantedPoster.mat
+  artifactKey: Guid(195f2580d2afd4b00bc884dbb6906aa6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Arena/Gladiators Low Poly Arena/Materials/CalKestisWantedPoster.mat using Guid(195f2580d2afd4b00bc884dbb6906aa6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d2e6a0693946a688e2e5e338ee422e7') in 0.007967 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 20.250259 seconds.
+  path: Assets/Arena/Gladiators Low Poly Arena/Materials/CalKestisWantedPoster.mat
+  artifactKey: Guid(195f2580d2afd4b00bc884dbb6906aa6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Arena/Gladiators Low Poly Arena/Materials/CalKestisWantedPoster.mat using Guid(195f2580d2afd4b00bc884dbb6906aa6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a9db68364eff3990f3986bbf289634ca') in 0.020096 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 4
+========================================================================
+Received Import Request.
+  Time since last request: 90.662854 seconds.
+  path: Assets/Arena/Gladiators Low Poly Arena/Textures/cal_kestis_wanted copy.jpg
+  artifactKey: Guid(517c34630587144f4af8aeb81417de57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Arena/Gladiators Low Poly Arena/Textures/cal_kestis_wanted copy.jpg using Guid(517c34630587144f4af8aeb81417de57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '234186c520222e538b53c9f94b001f49') in 0.011867 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 134.017942 seconds.
+  path: Assets/Arena/Gladiators Low Poly Arena/Textures/chopper_wanted_poster copy.jpg
+  artifactKey: Guid(8bdb4514144f04daab4fc9866aa78c2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Arena/Gladiators Low Poly Arena/Textures/chopper_wanted_poster copy.jpg using Guid(8bdb4514144f04daab4fc9866aa78c2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f46389db99cc75291a4bd597396867cf') in 0.010255 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 2.508854 seconds.
+  path: Assets/Arena/Gladiators Low Poly Arena/Gladiator Low Poly Arena.fbx
+  artifactKey: Guid(c685db5bd3a0f9b4d8ddb667b78d772f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Arena/Gladiators Low Poly Arena/Gladiator Low Poly Arena.fbx using Guid(c685db5bd3a0f9b4d8ddb667b78d772f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '71f3eef0468e94dab3775833e0453ad0') in 0.137223 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 167
+========================================================================
+Received Import Request.
+  Time since last request: 13.121079 seconds.
+  path: Assets/Arena/Gladiators Low Poly Arena/Materials/ChopperWantedPoster.mat
+  artifactKey: Guid(22e0226c88c5a479da378344a9bc6dda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Arena/Gladiators Low Poly Arena/Materials/ChopperWantedPoster.mat using Guid(22e0226c88c5a479da378344a9bc6dda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf70984d05f071edbb511b024873c54f') in 0.009211 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 16.148210 seconds.
+  path: Assets/Arena/Gladiators Low Poly Arena/Materials/CalKestisWantedPoster.mat
+  artifactKey: Guid(195f2580d2afd4b00bc884dbb6906aa6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Arena/Gladiators Low Poly Arena/Materials/CalKestisWantedPoster.mat using Guid(195f2580d2afd4b00bc884dbb6906aa6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12cae5850f95a8aca8d2ee51a0a2e000') in 0.017401 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 4
