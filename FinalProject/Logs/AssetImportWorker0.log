@@ -295,3 +295,27 @@ AssetImportParameters requested are different than current active one (requested
   custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 147.830569 seconds.
+  path: Assets/Videos/JediMasterDeath.mp4
+  artifactKey: Guid(51eed695fc83a4863830e47bc78a8375) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Videos/JediMasterDeath.mp4 using Guid(51eed695fc83a4863830e47bc78a8375) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d9acbdbdb003b3680a5d3b4b22669dc') in 0.015188 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 9.266349 seconds.
+  path: Assets/Materials/lava.jpg
+  artifactKey: Guid(62a43d774d1e4453d857d340666a8eb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/lava.jpg using Guid(62a43d774d1e4453d857d340666a8eb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b53c458f2ec98685b689746aa5ebb0de') in 0.022044 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 8.154076 seconds.
+  path: Assets/Materials/lava.mat
+  artifactKey: Guid(f9f21c78a99fa440d8a1adfc9c630f1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/lava.mat using Guid(f9f21c78a99fa440d8a1adfc9c630f1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '772c0ccad377c7af9731f9e703b8b2dd') in 0.021950 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
