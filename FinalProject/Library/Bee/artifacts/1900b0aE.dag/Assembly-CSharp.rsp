@@ -371,6 +371,7 @@
 "Assets/Scripts/GameOverScreen.cs"
 "Assets/Scripts/GUI.cs"
 "Assets/Scripts/Kills.cs"
+"Assets/Scripts/Ladder.cs"
 "Assets/Scripts/LightsaberSwingScript.cs"
 "Assets/Scripts/PlayerDeath.cs"
 "Assets/Scripts/ReloadScene.cs"
