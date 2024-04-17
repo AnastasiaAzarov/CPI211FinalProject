@@ -1885,3 +1885,1237 @@ Received Import Request.
 Start importing Assets/Scenes/AnakinLevel.unity using Guid(caf6947e5e3de46da9c9766c0668a43d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '676669c4bf31cf5692eb93b5e39863b1') in 0.002762 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 24837.202364 seconds.
+  path: Assets/Scenes/MasterLevel.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/MasterLevel.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c9f4ce297245641c29f5b0607bbbfe2') in 0.001284 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 119.644522 seconds.
+  path: Assets/UnityPrefabAssets/kenney_platformer-kit/Models
+  artifactKey: Guid(cff49de148d4a4a0a9f10c2098e11203) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/kenney_platformer-kit/Models using Guid(cff49de148d4a4a0a9f10c2098e11203) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f467a4ee6f4762e79617d5b3b89a809') in 0.000804 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.602698 seconds.
+  path: Assets/UnityPrefabAssets/kenney_platformer-kit/Models/FBX format
+  artifactKey: Guid(b120415f1942246dcb31724fec9bd322) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/kenney_platformer-kit/Models/FBX format using Guid(b120415f1942246dcb31724fec9bd322) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '232eff15361d9f79265ea20b3cf47dea') in 0.000530 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 1.464482 seconds.
+  path: Assets/UnityPrefabAssets/kenney_platformer-kit/Models/FBX format/arrow.fbx
+  artifactKey: Guid(b0bbd3973eaa6453bad21168a21ccf7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/kenney_platformer-kit/Models/FBX format/arrow.fbx using Guid(b0bbd3973eaa6453bad21168a21ccf7a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3bec7edb503dc8a7a2e517c8c739845e') in 0.083676 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000040 seconds.
+  path: Assets/UnityPrefabAssets/kenney_platformer-kit/Models/FBX format/blockCurveLow.fbx
+  artifactKey: Guid(eb38feb45fd984c1ab8bb5a27345a00e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/kenney_platformer-kit/Models/FBX format/blockCurveLow.fbx using Guid(eb38feb45fd984c1ab8bb5a27345a00e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf70688edbece9a0317b33c5acf21b63') in 0.011681 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/UnityPrefabAssets/kenney_platformer-kit/Models/FBX format/blockSnowHexagon.fbx
+  artifactKey: Guid(c2cdb293b325c42bcad19a46aa671123) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/kenney_platformer-kit/Models/FBX format/blockSnowHexagon.fbx using Guid(c2cdb293b325c42bcad19a46aa671123) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc1928013a0c25ad6bb273830b25b29e') in 0.013588 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000046 seconds.
+  path: Assets/UnityPrefabAssets/kenney_platformer-kit/Models/FBX format/blockHexagon.fbx
+  artifactKey: Guid(901a29a1972f042aba3ac86de5d51c04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/kenney_platformer-kit/Models/FBX format/blockHexagon.fbx using Guid(901a29a1972f042aba3ac86de5d51c04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '282df77bf669e14e1a22dd30fc8b645d') in 0.010821 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000053 seconds.
+  path: Assets/UnityPrefabAssets/kenney_platformer-kit/Models/FBX format/blockSnowCornerLarge.fbx
+  artifactKey: Guid(92b516a825a0f4a57949f8f1a9ab795b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/kenney_platformer-kit/Models/FBX format/blockSnowCornerLarge.fbx using Guid(92b516a825a0f4a57949f8f1a9ab795b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '698f982d2edd07a18e63a172d4286b5b') in 0.011353 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000079 seconds.
+  path: Assets/UnityPrefabAssets/kenney_platformer-kit/Models/FBX format/blockHexagonLow.fbx
+  artifactKey: Guid(6dd1a613636a24482906ed2436024b81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/kenney_platformer-kit/Models/FBX format/blockHexagonLow.fbx using Guid(6dd1a613636a24482906ed2436024b81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '234d391d8fdb13859c7ec73524f9f498') in 0.009878 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/UnityPrefabAssets/kenney_platformer-kit/Models/FBX format/blockLarge.fbx
+  artifactKey: Guid(8491e7affb67c42f7a4e539432e8129e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/kenney_platformer-kit/Models/FBX format/blockLarge.fbx using Guid(8491e7affb67c42f7a4e539432e8129e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c0a183e444af93f2827156ad480a772e') in 0.009795 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000053 seconds.
+  path: Assets/UnityPrefabAssets/kenney_platformer-kit/Models/FBX format/blockSlope.fbx
+  artifactKey: Guid(bbb6cde7ba19149d98aec2b7c67f8bf0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/kenney_platformer-kit/Models/FBX format/blockSlope.fbx using Guid(bbb6cde7ba19149d98aec2b7c67f8bf0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd22e3aba076fe13d283d3048b6a140bd') in 0.014139 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000103 seconds.
+  path: Assets/UnityPrefabAssets/kenney_platformer-kit/Models/FBX format/blockSnowEnd.fbx
+  artifactKey: Guid(a4e29a47d5ce241b0ae032cc6a5acecb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/kenney_platformer-kit/Models/FBX format/blockSnowEnd.fbx using Guid(a4e29a47d5ce241b0ae032cc6a5acecb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '03250aa42c5880fd492736c4fc6ffa07') in 0.010305 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000130 seconds.
+  path: Assets/UnityPrefabAssets/kenney_platformer-kit/Models/FBX format/blockSnow.fbx
+  artifactKey: Guid(a04c8e83b5fda4d479aaab422e133d13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/kenney_platformer-kit/Models/FBX format/blockSnow.fbx using Guid(a04c8e83b5fda4d479aaab422e133d13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'abab556436d627fe3febf0aeadc3f5c8') in 0.009686 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/UnityPrefabAssets/kenney_platformer-kit/Models/FBX format/barrel.fbx
+  artifactKey: Guid(486407ebfc15743c3b9cb0c458b0b2c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/kenney_platformer-kit/Models/FBX format/barrel.fbx using Guid(486407ebfc15743c3b9cb0c458b0b2c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3e219aa23ced3a1528eed14549327b4') in 0.013974 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 11
+========================================================================
+Received Import Request.
+  Time since last request: 0.000058 seconds.
+  path: Assets/UnityPrefabAssets/kenney_platformer-kit/Models/FBX format/blockSnowCliff.fbx
+  artifactKey: Guid(c07c0523968324439a7b191df08f56b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/kenney_platformer-kit/Models/FBX format/blockSnowCliff.fbx using Guid(c07c0523968324439a7b191df08f56b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a4ffe5651413bcf5aafebae12c678171') in 0.009134 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000064 seconds.
+  path: Assets/UnityPrefabAssets/kenney_platformer-kit/Models/FBX format/blockDirtHalf.fbx
+  artifactKey: Guid(a0c1cae16f5354df8911874ed3fce615) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/kenney_platformer-kit/Models/FBX format/blockDirtHalf.fbx using Guid(a0c1cae16f5354df8911874ed3fce615) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5dc645d188ce49f76227d0a606500c90') in 0.007516 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 8
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/UnityPrefabAssets/kenney_platformer-kit/Models/FBX format/blockLevel.fbx
+  artifactKey: Guid(cef9cc683ad3c474f80b5f8b68bc65b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/kenney_platformer-kit/Models/FBX format/blockLevel.fbx using Guid(cef9cc683ad3c474f80b5f8b68bc65b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac2486481b5b8a50d3c66ec742366788') in 0.009176 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/UnityPrefabAssets/kenney_platformer-kit/Models/FBX format/blockDirtRamp.fbx
+  artifactKey: Guid(2a3077de2e189405c99ba7d0c072564b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/kenney_platformer-kit/Models/FBX format/blockDirtRamp.fbx using Guid(2a3077de2e189405c99ba7d0c072564b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ab144c7155229c79e2f0cb7b677ec34') in 0.006855 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 8
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/UnityPrefabAssets/kenney_platformer-kit/Models/FBX format/blockMovingBlue.fbx
+  artifactKey: Guid(ea40305be6ee2404bb06afdfe76e4ced) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/kenney_platformer-kit/Models/FBX format/blockMovingBlue.fbx using Guid(ea40305be6ee2404bb06afdfe76e4ced) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c2f4ce62f8eda4a6d16461e4179a0e80') in 0.009835 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000074 seconds.
+  path: Assets/UnityPrefabAssets/kenney_platformer-kit/Models/FBX format/blockCliff.fbx
+  artifactKey: Guid(f6ab22deed64044ca863186d1362bea6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/kenney_platformer-kit/Models/FBX format/blockCliff.fbx using Guid(f6ab22deed64044ca863186d1362bea6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4979d3ed79aeddad7cc644693974c71c') in 0.009467 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000082 seconds.
+  path: Assets/UnityPrefabAssets/kenney_platformer-kit/Models/FBX format/blockQuarter.fbx
+  artifactKey: Guid(45440a32cf802478594ecb4e5a94c1af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/kenney_platformer-kit/Models/FBX format/blockQuarter.fbx using Guid(45440a32cf802478594ecb4e5a94c1af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c787387dcaf31037e27a7d3c63fa6e4') in 0.010560 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000065 seconds.
+  path: Assets/UnityPrefabAssets/kenney_platformer-kit/Models/FBX format/blockSnowHalf.fbx
+  artifactKey: Guid(478dae1f9e8904ef9b55887da1f4e278) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/kenney_platformer-kit/Models/FBX format/blockSnowHalf.fbx using Guid(478dae1f9e8904ef9b55887da1f4e278) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9467534dba8d14c0961bf589f36d798f') in 0.010047 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000063 seconds.
+  path: Assets/UnityPrefabAssets/kenney_platformer-kit/Models/FBX format/blockCurve.fbx
+  artifactKey: Guid(3aa8315529e06493899e5e8af6229ec7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/kenney_platformer-kit/Models/FBX format/blockCurve.fbx using Guid(3aa8315529e06493899e5e8af6229ec7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6bc9a741a2062e9d0e22b2a263ad42ac') in 0.010294 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000047 seconds.
+  path: Assets/UnityPrefabAssets/kenney_platformer-kit/Models/FBX format/blockHalf.fbx
+  artifactKey: Guid(6ccb746ab10334d32bd53f04699d69aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/kenney_platformer-kit/Models/FBX format/blockHalf.fbx using Guid(6ccb746ab10334d32bd53f04699d69aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '356573e160d61652459c27de4301eb65') in 0.012280 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 6.209334 seconds.
+  path: Assets/UnityPrefabAssets/kenney_platformer-kit/Models/FBX format/blockSnowLarge.fbx
+  artifactKey: Guid(b91ec8202234242238b216f54652b753) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/kenney_platformer-kit/Models/FBX format/blockSnowLarge.fbx using Guid(b91ec8202234242238b216f54652b753) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9eaad706eb6ec0abfd513f89aea999ea') in 0.015673 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000057 seconds.
+  path: Assets/UnityPrefabAssets/kenney_platformer-kit/Models/FBX format/blockSnowRoundedLong.fbx
+  artifactKey: Guid(9aa5301107fcf4c4486fb7c6a4e25153) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/kenney_platformer-kit/Models/FBX format/blockSnowRoundedLong.fbx using Guid(9aa5301107fcf4c4486fb7c6a4e25153) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac5c2d1dfb8a115a6291a7b0744a232a') in 0.012024 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000111 seconds.
+  path: Assets/UnityPrefabAssets/kenney_platformer-kit/Models/FBX format/blockSnowRounded.fbx
+  artifactKey: Guid(b95f2014b42fc4f63ab4373e086e588f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/kenney_platformer-kit/Models/FBX format/blockSnowRounded.fbx using Guid(b95f2014b42fc4f63ab4373e086e588f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e06b4910404198aa5edfdc86c0c9fc75') in 0.014387 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/UnityPrefabAssets/kenney_platformer-kit/Models/FBX format/blockSnowRoundedLarge.fbx
+  artifactKey: Guid(d485c384941754d919acecc3599ab3ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/kenney_platformer-kit/Models/FBX format/blockSnowRoundedLarge.fbx using Guid(d485c384941754d919acecc3599ab3ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8db54a1f4568b8e19e3ff68039351431') in 0.010807 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000042 seconds.
+  path: Assets/UnityPrefabAssets/kenney_platformer-kit/Models/FBX format/blockSnowSlopeHalf.fbx
+  artifactKey: Guid(4b552d1afdd934755891517628c4bf96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/kenney_platformer-kit/Models/FBX format/blockSnowSlopeHalf.fbx using Guid(4b552d1afdd934755891517628c4bf96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b0a63ff72b337e3a543e2d5935c3e84b') in 0.011075 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.015016 seconds.
+  path: Assets/UnityPrefabAssets/kenney_platformer-kit/Models/FBX format/bomb.fbx
+  artifactKey: Guid(a4d3593f5d40046a8b04c9c111ff8261) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/kenney_platformer-kit/Models/FBX format/bomb.fbx using Guid(a4d3593f5d40046a8b04c9c111ff8261) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd623020125667a14b35b0460bea5d13c') in 0.010943 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 10
+========================================================================
+Received Import Request.
+  Time since last request: 0.000088 seconds.
+  path: Assets/UnityPrefabAssets/kenney_platformer-kit/Models/FBX format/coinGold.fbx
+  artifactKey: Guid(b6a3712456b954fbdbefc151b00cad77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/kenney_platformer-kit/Models/FBX format/coinGold.fbx using Guid(b6a3712456b954fbdbefc151b00cad77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4929eb6e688a2490063c39551c56a918') in 0.011557 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/UnityPrefabAssets/kenney_platformer-kit/Models/FBX format/coinSilver.fbx
+  artifactKey: Guid(92d0be8529c8f4c39bf5fa8a7d310259) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/kenney_platformer-kit/Models/FBX format/coinSilver.fbx using Guid(92d0be8529c8f4c39bf5fa8a7d310259) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c8f4c77162620b13280e15a41f492109') in 0.010274 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000161 seconds.
+  path: Assets/UnityPrefabAssets/kenney_platformer-kit/Models/FBX format/bridgeHalf.fbx
+  artifactKey: Guid(87798812ad9764ab395c9971ba72e050) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/kenney_platformer-kit/Models/FBX format/bridgeHalf.fbx using Guid(87798812ad9764ab395c9971ba72e050) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '696b1f0adff557a2d80465d65b2cecf8') in 0.010772 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000051 seconds.
+  path: Assets/UnityPrefabAssets/kenney_platformer-kit/Models/FBX format/buttonSquare.fbx
+  artifactKey: Guid(07a7fe0264587406296b3d1eca544add) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/kenney_platformer-kit/Models/FBX format/buttonSquare.fbx using Guid(07a7fe0264587406296b3d1eca544add) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ab0a768b4db528cfd66fb3adc5accb9') in 0.013745 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 14
+========================================================================
+Received Import Request.
+  Time since last request: 0.000083 seconds.
+  path: Assets/UnityPrefabAssets/kenney_platformer-kit/Models/FBX format/coinBronze.fbx
+  artifactKey: Guid(61a8a0cf81b2b496a88f096f10a84695) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/kenney_platformer-kit/Models/FBX format/coinBronze.fbx using Guid(61a8a0cf81b2b496a88f096f10a84695) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '93c77844291037394a25582440f2095a') in 0.009711 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 1.949601 seconds.
+  path: Assets/UnityPrefabAssets/kenney_platformer-kit/Models/FBX format/crateItem.fbx
+  artifactKey: Guid(caed074f9845f4be186f5bb607d8e894) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/kenney_platformer-kit/Models/FBX format/crateItem.fbx using Guid(caed074f9845f4be186f5bb607d8e894) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a6d06352a4b2d9501896136553f000a') in 0.021691 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000242 seconds.
+  path: Assets/UnityPrefabAssets/kenney_platformer-kit/Models/FBX format/fenceCornerCurved.fbx
+  artifactKey: Guid(fed39d6b9d6204be8a8ab5fc64d6d716) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/kenney_platformer-kit/Models/FBX format/fenceCornerCurved.fbx using Guid(fed39d6b9d6204be8a8ab5fc64d6d716) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a01aaa3dbc96b0bbbbb189d2b5ab364b') in 0.014676 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000046 seconds.
+  path: Assets/UnityPrefabAssets/kenney_platformer-kit/Models/FBX format/doorClosed.fbx
+  artifactKey: Guid(5dc81176622ba4c588a1a3ea9b1025a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/kenney_platformer-kit/Models/FBX format/doorClosed.fbx using Guid(5dc81176622ba4c588a1a3ea9b1025a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c2bd7cf0821d0849c8335f084d124a69') in 0.020632 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 10
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/UnityPrefabAssets/kenney_platformer-kit/Models/FBX format/doorOpen.fbx
+  artifactKey: Guid(e3e7eb2be663c4bd280b3e04fdbc0787) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/kenney_platformer-kit/Models/FBX format/doorOpen.fbx using Guid(e3e7eb2be663c4bd280b3e04fdbc0787) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6340d78e4a75541cf1c4b1603ed163ff') in 0.008569 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 8
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/UnityPrefabAssets/kenney_platformer-kit/Models/FBX format/fenceCorner.fbx
+  artifactKey: Guid(ff176e85c1aeb43d0a1c394b9770d2a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/kenney_platformer-kit/Models/FBX format/fenceCorner.fbx using Guid(ff176e85c1aeb43d0a1c394b9770d2a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d5a0d17fc6988be914aaf136582c7c0') in 0.011796 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/UnityPrefabAssets/kenney_platformer-kit/Models/FBX format/doorLargeClosed.fbx
+  artifactKey: Guid(82af614c7c65046e3b9aca331ad5d9e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/kenney_platformer-kit/Models/FBX format/doorLargeClosed.fbx using Guid(82af614c7c65046e3b9aca331ad5d9e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02adb22ae8d4ee0f6d1aafe1a8fbab83') in 0.011292 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 10
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+Thread 0x177e1f000 may have been prematurely finalized
+- Loaded All Assemblies, in  0.216 seconds
+Refreshing native plugins compatible for Editor in 0.55 ms, found 2 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for iOS target not found
+Native extension for Android target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.686 seconds
+Domain Reload Profiling: 902ms
+	BeginReloadAssembly (77ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (2ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (30ms)
+	RebuildCommonClasses (19ms)
+	RebuildNativeTypeToScriptingClass (7ms)
+	initialDomainReloadingComplete (11ms)
+	LoadAllAssembliesAndSetupDomain (102ms)
+		LoadAssemblies (120ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (7ms)
+			TypeCache.Refresh (4ms)
+				TypeCache.ScanAssembly (0ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (3ms)
+	FinalizeReload (686ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (283ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (51ms)
+			SetLoadedEditorAssemblies (2ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (25ms)
+			ProcessInitializeOnLoadAttributes (194ms)
+			ProcessInitializeOnLoadMethodAttributes (10ms)
+			AfterProcessingInitializeOnLoad (1ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (2ms)
+Refreshing native plugins compatible for Editor in 0.74 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3096 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 23 unused Assets / (31.3 KB). Loaded Objects now: 3723.
+Memory consumption went from 375.7 MB to 375.6 MB.
+Total: 2.654333 ms (FindLiveObjects: 0.130167 ms CreateObjectMapping: 0.034167 ms MarkObjects: 2.448458 ms  DeleteObjects: 0.041000 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:CustomObjectIndexerAttribute: 6d391050e5a25f67b0a2c618074f2cd9 -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: 3918e3fc78b5a79bad01e8451be0beb8 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+Thread 0x177e1f000 may have been prematurely finalized
+- Loaded All Assemblies, in  0.178 seconds
+Refreshing native plugins compatible for Editor in 0.49 ms, found 2 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for iOS target not found
+Native extension for Android target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.377 seconds
+Domain Reload Profiling: 555ms
+	BeginReloadAssembly (66ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (2ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (23ms)
+	RebuildCommonClasses (19ms)
+	RebuildNativeTypeToScriptingClass (7ms)
+	initialDomainReloadingComplete (10ms)
+	LoadAllAssembliesAndSetupDomain (76ms)
+		LoadAssemblies (91ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (7ms)
+			TypeCache.Refresh (4ms)
+				TypeCache.ScanAssembly (0ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (2ms)
+	FinalizeReload (377ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (237ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (17ms)
+			SetLoadedEditorAssemblies (2ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (24ms)
+			ProcessInitializeOnLoadAttributes (185ms)
+			ProcessInitializeOnLoadMethodAttributes (8ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (2ms)
+Refreshing native plugins compatible for Editor in 0.51 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3097 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 23 unused Assets / (31.2 KB). Loaded Objects now: 3726.
+Memory consumption went from 385.6 MB to 385.6 MB.
+Total: 2.196750 ms (FindLiveObjects: 0.113792 ms CreateObjectMapping: 0.037083 ms MarkObjects: 2.018250 ms  DeleteObjects: 0.027250 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:CustomObjectIndexerAttribute: 6d391050e5a25f67b0a2c618074f2cd9 -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: 3918e3fc78b5a79bad01e8451be0beb8 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 171.105081 seconds.
+  path: Assets/UnityPrefabAssets/kenney_platformer-kit/Models/FBX format/fenceLow.fbx
+  artifactKey: Guid(699ef6a1f20c64c7183596fe17a33be0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/kenney_platformer-kit/Models/FBX format/fenceLow.fbx using Guid(699ef6a1f20c64c7183596fe17a33be0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '76eaa270dd608bc529704c4992715676') in 0.061273 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 10
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/UnityPrefabAssets/kenney_platformer-kit/Models/FBX format/flag.fbx
+  artifactKey: Guid(4f3501a79f4744ff2926cd8551a2f5a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/kenney_platformer-kit/Models/FBX format/flag.fbx using Guid(4f3501a79f4744ff2926cd8551a2f5a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3735451096ee4b7380f598d1dbbb672a') in 0.015889 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 10
+========================================================================
+Received Import Request.
+  Time since last request: 0.000110 seconds.
+  path: Assets/UnityPrefabAssets/kenney_platformer-kit/Models/FBX format/flowersLow.fbx
+  artifactKey: Guid(00761e40ffffb4cd9a2d33b9d749da3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/kenney_platformer-kit/Models/FBX format/flowersLow.fbx using Guid(00761e40ffffb4cd9a2d33b9d749da3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b22559b926cf8943154c95d0e6439ab1') in 0.016148 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 11
+========================================================================
+Received Import Request.
+  Time since last request: 0.000111 seconds.
+  path: Assets/UnityPrefabAssets/kenney_platformer-kit/Models/FBX format/jewel.fbx
+  artifactKey: Guid(5c83e071b278049199a4e64caa913dbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/kenney_platformer-kit/Models/FBX format/jewel.fbx using Guid(5c83e071b278049199a4e64caa913dbd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '35ff07ab1db10423dd24a4dd1164f7a6') in 0.009439 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 8
+========================================================================
+Received Import Request.
+  Time since last request: 0.000052 seconds.
+  path: Assets/UnityPrefabAssets/kenney_platformer-kit/Models/FBX format/flowers.fbx
+  artifactKey: Guid(5abb04ccf6bd24633ab5d37a539fda5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/kenney_platformer-kit/Models/FBX format/flowers.fbx using Guid(5abb04ccf6bd24633ab5d37a539fda5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3da1ed60a8e660e99069dc6aad8dfdb9') in 0.017382 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 11
+========================================================================
+Received Import Request.
+  Time since last request: 0.031222 seconds.
+  path: Assets/UnityPrefabAssets/kenney_platformer-kit/Models/FBX format/key.fbx
+  artifactKey: Guid(92972b5d43e9540c7af7355b398aa3fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/kenney_platformer-kit/Models/FBX format/key.fbx using Guid(92972b5d43e9540c7af7355b398aa3fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ad2a468f0259a1bd6a136388306f058') in 0.007882 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 8
+========================================================================
+Received Import Request.
+  Time since last request: 0.000110 seconds.
+  path: Assets/UnityPrefabAssets/kenney_platformer-kit/Models/FBX format/plant.fbx
+  artifactKey: Guid(2ee315052bed14d24bf5c089f1d498b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/kenney_platformer-kit/Models/FBX format/plant.fbx using Guid(2ee315052bed14d24bf5c089f1d498b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '599e902d9da482f450d94d4fea58a523') in 0.008426 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 8
+========================================================================
+Received Import Request.
+  Time since last request: 0.000046 seconds.
+  path: Assets/UnityPrefabAssets/kenney_platformer-kit/Models/FBX format/mushrooms.fbx
+  artifactKey: Guid(24059070dca7e47f4bc702e36a324bef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/kenney_platformer-kit/Models/FBX format/mushrooms.fbx using Guid(24059070dca7e47f4bc702e36a324bef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '95f1c0cb0aa1fa3addb5c49b7cecec71') in 0.011417 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/UnityPrefabAssets/kenney_platformer-kit/Models/FBX format/lever.fbx
+  artifactKey: Guid(e9843752de0ba43ed99638dc71816c81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/kenney_platformer-kit/Models/FBX format/lever.fbx using Guid(e9843752de0ba43ed99638dc71816c81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '627f3dfd604a307f71282b3c09ae38d8') in 0.016358 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 14
+========================================================================
+Received Import Request.
+  Time since last request: 0.000109 seconds.
+  path: Assets/UnityPrefabAssets/kenney_platformer-kit/Models/FBX format/lock.fbx
+  artifactKey: Guid(07356e5e9c0d24a15914fc90258ce2b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/kenney_platformer-kit/Models/FBX format/lock.fbx using Guid(07356e5e9c0d24a15914fc90258ce2b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '90ac3fe4f6d7ac2ed2d65afb80bcd1bb') in 0.012422 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 10
+========================================================================
+Received Import Request.
+  Time since last request: 0.331930 seconds.
+  path: Assets/UnityPrefabAssets/kenney_platformer-kit/Models/FBX format/saw.fbx
+  artifactKey: Guid(03de15b3570c743e59722838141cc79f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/kenney_platformer-kit/Models/FBX format/saw.fbx using Guid(03de15b3570c743e59722838141cc79f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '10424bf482082b5cbe53a75a1de1da95') in 0.011008 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 8
+========================================================================
+Received Import Request.
+  Time since last request: 0.000041 seconds.
+  path: Assets/UnityPrefabAssets/kenney_platformer-kit/Models/FBX format/treePine.fbx
+  artifactKey: Guid(ff0689b8c4a5045588ae1a84c9269acc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/kenney_platformer-kit/Models/FBX format/treePine.fbx using Guid(ff0689b8c4a5045588ae1a84c9269acc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '31b51411dc59b4fc38e05cb0f65be680') in 0.013020 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000041 seconds.
+  path: Assets/UnityPrefabAssets/kenney_platformer-kit/Models/FBX format/spikesHidden.fbx
+  artifactKey: Guid(1c51e1266813148159f19e36357e137b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/kenney_platformer-kit/Models/FBX format/spikesHidden.fbx using Guid(1c51e1266813148159f19e36357e137b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c6f6c9d383202ddb02397ba298239b20') in 0.008738 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 8
+========================================================================
+Received Import Request.
+  Time since last request: 0.000044 seconds.
+  path: Assets/UnityPrefabAssets/kenney_platformer-kit/Models/FBX format/spikeBlock.fbx
+  artifactKey: Guid(43483f48a58c64a50979f334ea1fab8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/kenney_platformer-kit/Models/FBX format/spikeBlock.fbx using Guid(43483f48a58c64a50979f334ea1fab8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39e9f38f22b4956bd901afad00a61213') in 0.010228 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000097 seconds.
+  path: Assets/UnityPrefabAssets/kenney_platformer-kit/Models/FBX format/tree.fbx
+  artifactKey: Guid(6eb8812aa0d774764a93a75ab0c0aa49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/kenney_platformer-kit/Models/FBX format/tree.fbx using Guid(6eb8812aa0d774764a93a75ab0c0aa49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da5bd82cfe0230d9861c9ba80d8f1e0b') in 0.010205 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+Thread 0x177e1f000 may have been prematurely finalized
+- Loaded All Assemblies, in  0.183 seconds
+Refreshing native plugins compatible for Editor in 0.52 ms, found 2 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for iOS target not found
+Native extension for Android target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.384 seconds
+Domain Reload Profiling: 567ms
+	BeginReloadAssembly (68ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (2ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (25ms)
+	RebuildCommonClasses (19ms)
+	RebuildNativeTypeToScriptingClass (7ms)
+	initialDomainReloadingComplete (10ms)
+	LoadAllAssembliesAndSetupDomain (79ms)
+		LoadAssemblies (92ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (8ms)
+			TypeCache.Refresh (4ms)
+				TypeCache.ScanAssembly (0ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (2ms)
+	FinalizeReload (384ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (239ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (16ms)
+			SetLoadedEditorAssemblies (2ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (25ms)
+			ProcessInitializeOnLoadAttributes (186ms)
+			ProcessInitializeOnLoadMethodAttributes (9ms)
+			AfterProcessingInitializeOnLoad (1ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (2ms)
+Refreshing native plugins compatible for Editor in 0.70 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3096 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 23 unused Assets / (31.3 KB). Loaded Objects now: 3729.
+Memory consumption went from 395.9 MB to 395.8 MB.
+Total: 2.357125 ms (FindLiveObjects: 0.113500 ms CreateObjectMapping: 0.037792 ms MarkObjects: 2.165458 ms  DeleteObjects: 0.039834 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:CustomObjectIndexerAttribute: 6d391050e5a25f67b0a2c618074f2cd9 -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: 3918e3fc78b5a79bad01e8451be0beb8 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 208.029390 seconds.
+  path: Assets/UnityPrefabAssets/kenney_platformer-kit/Models/FBX format/treePineSmallSnow.fbx
+  artifactKey: Guid(7fdd962bb4f2e460ab4692df0d9a034d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/kenney_platformer-kit/Models/FBX format/treePineSmallSnow.fbx using Guid(7fdd962bb4f2e460ab4692df0d9a034d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '416ce11b10bd9481d66e401feb862225') in 0.056414 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/UnityPrefabAssets/kenney_platformer-kit/Models/FBX format/treeSnow.fbx
+  artifactKey: Guid(c72e79c2dccde4d1b9bcdd31d8eadbad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/kenney_platformer-kit/Models/FBX format/treeSnow.fbx using Guid(c72e79c2dccde4d1b9bcdd31d8eadbad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '53e67aac02f9e760b1464ac54a5eed9f') in 0.010923 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 86.037739 seconds.
+  path: Assets/UnityPrefabAssets/kenney_mini-dungeon/Models/OBJ format/banner.obj
+  artifactKey: Guid(87333f5f0500b41978d042c2eb92a203) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/kenney_mini-dungeon/Models/OBJ format/banner.obj using Guid(87333f5f0500b41978d042c2eb92a203) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a3c68cd7b72d8d6cc3b4c3fd37b34f8') in 0.024674 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 11
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/UnityPrefabAssets/kenney_mini-dungeon/Models/OBJ format/coin.obj
+  artifactKey: Guid(02ffa5490766e468c9f42337a6380c64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/kenney_mini-dungeon/Models/OBJ format/coin.obj using Guid(02ffa5490766e468c9f42337a6380c64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb700b01ce42960da2d39a0ba9365725') in 0.012953 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 11
+========================================================================
+Received Import Request.
+  Time since last request: 0.000063 seconds.
+  path: Assets/UnityPrefabAssets/kenney_mini-dungeon/Models/OBJ format/wood-support.obj
+  artifactKey: Guid(95f93e0c0a33f4fffb33e8162bba5340) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/kenney_mini-dungeon/Models/OBJ format/wood-support.obj using Guid(95f93e0c0a33f4fffb33e8162bba5340) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b02444834049fa43dcb312423f9216fd') in 0.013629 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 11
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/UnityPrefabAssets/kenney_mini-dungeon/Models/OBJ format/gate.obj
+  artifactKey: Guid(7408cd6884a2f452f8ac536d5709ad4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/kenney_mini-dungeon/Models/OBJ format/gate.obj using Guid(7408cd6884a2f452f8ac536d5709ad4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c49f62e693c92e167e4cea265a8eaf58') in 0.011152 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 11
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/UnityPrefabAssets/kenney_mini-dungeon/Models/OBJ format/character-human.obj
+  artifactKey: Guid(346196d52314541c79da9d45ea389158) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/kenney_mini-dungeon/Models/OBJ format/character-human.obj using Guid(346196d52314541c79da9d45ea389158) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '521390c85f7541e1f3bc92b023f83837') in 0.000714 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 4
+========================================================================
+Received Import Request.
+  Time since last request: 0.000049 seconds.
+  path: Assets/UnityPrefabAssets/kenney_mini-dungeon/Models/OBJ format/stairs.obj
+  artifactKey: Guid(21b6421c733154c479daa43d8bbecb91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/kenney_mini-dungeon/Models/OBJ format/stairs.obj using Guid(21b6421c733154c479daa43d8bbecb91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd9ab660ae1bccfdad491bc17c5b146ba') in 0.012156 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 11
+========================================================================
+Received Import Request.
+  Time since last request: 0.000077 seconds.
+  path: Assets/UnityPrefabAssets/kenney_mini-dungeon/Models/OBJ format/chest.obj
+  artifactKey: Guid(f40e299e9c7f348e884c90fa797534c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/kenney_mini-dungeon/Models/OBJ format/chest.obj using Guid(f40e299e9c7f348e884c90fa797534c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c37633a9464938c3af85429d26ff23b0') in 0.015905 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 16
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/UnityPrefabAssets/kenney_mini-dungeon/Models/OBJ format/wall-narrow.obj
+  artifactKey: Guid(b5f44cc1f9a484edd811054d8a72dfc8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/kenney_mini-dungeon/Models/OBJ format/wall-narrow.obj using Guid(b5f44cc1f9a484edd811054d8a72dfc8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6dcd508599ae2bd1dea62e30bc4af038') in 0.009503 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 11
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/UnityPrefabAssets/kenney_mini-dungeon/Models/OBJ format/dirt.obj
+  artifactKey: Guid(07dd9d787eabf4fb9be38424097f6260) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/kenney_mini-dungeon/Models/OBJ format/dirt.obj using Guid(07dd9d787eabf4fb9be38424097f6260) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6fe0cced46104b9b2b5a35bdb9a2e08d') in 0.010107 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 11
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/UnityPrefabAssets/kenney_mini-dungeon/Models/OBJ format/wall-opening.obj
+  artifactKey: Guid(b00e61cb64d014e61add6ed4701e4b21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/kenney_mini-dungeon/Models/OBJ format/wall-opening.obj using Guid(b00e61cb64d014e61add6ed4701e4b21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d83348b95529903ef9050ca7a128b8e') in 0.008949 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 11
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/UnityPrefabAssets/kenney_mini-dungeon/Models/OBJ format/wood-structure.obj
+  artifactKey: Guid(5e5ee42bbffdb40ef88b061d83f6a75c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/kenney_mini-dungeon/Models/OBJ format/wood-structure.obj using Guid(5e5ee42bbffdb40ef88b061d83f6a75c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '699970fe2df5cf891e19e6518923ca03') in 0.008445 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 11
+========================================================================
+Received Import Request.
+  Time since last request: 11.272741 seconds.
+  path: Assets/UnityPrefabAssets/kenney_mini-dungeon/Models/FBX format/Textures
+  artifactKey: Guid(d79c5f4d97d4d491aaa1ede0a0089778) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/kenney_mini-dungeon/Models/FBX format/Textures using Guid(d79c5f4d97d4d491aaa1ede0a0089778) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a1f0e87b95696f0ddf78ad24b8e0088') in 0.000353 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.055594 seconds.
+  path: Assets/UnityPrefabAssets/kenney_mini-dungeon/Models/FBX format/Textures/colormap.png
+  artifactKey: Guid(64442dba1ffbf4ad8aaf1270000b1b9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/kenney_mini-dungeon/Models/FBX format/Textures/colormap.png using Guid(64442dba1ffbf4ad8aaf1270000b1b9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9550f1da6cbd92c75ca9416d48507130') in 0.013767 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+Thread 0x177e1f000 may have been prematurely finalized
+- Loaded All Assemblies, in  0.177 seconds
+Refreshing native plugins compatible for Editor in 0.49 ms, found 2 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for iOS target not found
+Native extension for Android target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.384 seconds
+Domain Reload Profiling: 561ms
+	BeginReloadAssembly (67ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (2ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (25ms)
+	RebuildCommonClasses (19ms)
+	RebuildNativeTypeToScriptingClass (7ms)
+	initialDomainReloadingComplete (10ms)
+	LoadAllAssembliesAndSetupDomain (74ms)
+		LoadAssemblies (88ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (7ms)
+			TypeCache.Refresh (4ms)
+				TypeCache.ScanAssembly (0ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (2ms)
+	FinalizeReload (384ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (239ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (17ms)
+			SetLoadedEditorAssemblies (2ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (25ms)
+			ProcessInitializeOnLoadAttributes (187ms)
+			ProcessInitializeOnLoadMethodAttributes (8ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (2ms)
+Refreshing native plugins compatible for Editor in 0.68 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3096 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 23 unused Assets / (31.3 KB). Loaded Objects now: 3732.
+Memory consumption went from 406.3 MB to 406.2 MB.
+Total: 2.226459 ms (FindLiveObjects: 0.115083 ms CreateObjectMapping: 0.037667 ms MarkObjects: 2.037625 ms  DeleteObjects: 0.035583 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:CustomObjectIndexerAttribute: 6d391050e5a25f67b0a2c618074f2cd9 -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: 3918e3fc78b5a79bad01e8451be0beb8 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+Thread 0x177e1f000 may have been prematurely finalized
+- Loaded All Assemblies, in  0.179 seconds
+Refreshing native plugins compatible for Editor in 0.48 ms, found 2 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for iOS target not found
+Native extension for Android target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.384 seconds
+Domain Reload Profiling: 563ms
+	BeginReloadAssembly (66ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (2ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (24ms)
+	RebuildCommonClasses (19ms)
+	RebuildNativeTypeToScriptingClass (7ms)
+	initialDomainReloadingComplete (10ms)
+	LoadAllAssembliesAndSetupDomain (77ms)
+		LoadAssemblies (91ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (7ms)
+			TypeCache.Refresh (4ms)
+				TypeCache.ScanAssembly (0ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (2ms)
+	FinalizeReload (384ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (240ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (17ms)
+			SetLoadedEditorAssemblies (2ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (25ms)
+			ProcessInitializeOnLoadAttributes (188ms)
+			ProcessInitializeOnLoadMethodAttributes (9ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (2ms)
+Refreshing native plugins compatible for Editor in 0.70 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3097 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 23 unused Assets / (31.4 KB). Loaded Objects now: 3735.
+Memory consumption went from 416.2 MB to 416.2 MB.
+Total: 2.333917 ms (FindLiveObjects: 0.119375 ms CreateObjectMapping: 0.039375 ms MarkObjects: 2.130875 ms  DeleteObjects: 0.043875 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:CustomObjectIndexerAttribute: 6d391050e5a25f67b0a2c618074f2cd9 -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: 3918e3fc78b5a79bad01e8451be0beb8 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+Thread 0x177e1f000 may have been prematurely finalized
+- Loaded All Assemblies, in  0.180 seconds
+Refreshing native plugins compatible for Editor in 0.58 ms, found 2 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for iOS target not found
+Native extension for Android target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.387 seconds
+Domain Reload Profiling: 566ms
+	BeginReloadAssembly (66ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (2ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (23ms)
+	RebuildCommonClasses (18ms)
+	RebuildNativeTypeToScriptingClass (7ms)
+	initialDomainReloadingComplete (10ms)
+	LoadAllAssembliesAndSetupDomain (78ms)
+		LoadAssemblies (92ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (7ms)
+			TypeCache.Refresh (3ms)
+				TypeCache.ScanAssembly (0ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (2ms)
+	FinalizeReload (387ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (242ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (17ms)
+			SetLoadedEditorAssemblies (2ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (25ms)
+			ProcessInitializeOnLoadAttributes (188ms)
+			ProcessInitializeOnLoadMethodAttributes (10ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (2ms)
+Refreshing native plugins compatible for Editor in 0.50 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3097 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 23 unused Assets / (31.3 KB). Loaded Objects now: 3738.
+Memory consumption went from 426.0 MB to 426.0 MB.
+Total: 2.220542 ms (FindLiveObjects: 0.119250 ms CreateObjectMapping: 0.032958 ms MarkObjects: 2.031334 ms  DeleteObjects: 0.036542 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:CustomObjectIndexerAttribute: 6d391050e5a25f67b0a2c618074f2cd9 -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: 3918e3fc78b5a79bad01e8451be0beb8 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 1216.497104 seconds.
+  path: Assets/UnityPrefabAssets/kenney_platformer-kit/Models/DAE format/arrow.dae
+  artifactKey: Guid(7dc3510f217f9412b9bd0abb7fefe8c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/kenney_platformer-kit/Models/DAE format/arrow.dae using Guid(7dc3510f217f9412b9bd0abb7fefe8c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e6a271f20e43daf44def9c83f044c1fa') in 0.059149 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000041 seconds.
+  path: Assets/UnityPrefabAssets/kenney_platformer-kit/Models/DAE format/blockLong.dae
+  artifactKey: Guid(61fddaae0b575478bbd16689d269d79c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/kenney_platformer-kit/Models/DAE format/blockLong.dae using Guid(61fddaae0b575478bbd16689d269d79c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '05421c73ab0a9aa0d85842cbd616829b') in 0.012208 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/UnityPrefabAssets/kenney_platformer-kit/Models/DAE format/blockHexagonLow.dae
+  artifactKey: Guid(04852ace42db043c3ac013750b240c2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/kenney_platformer-kit/Models/DAE format/blockHexagonLow.dae using Guid(04852ace42db043c3ac013750b240c2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf1a63aa2e93589b004a07fa15103b97') in 0.013505 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/UnityPrefabAssets/kenney_platformer-kit/Models/DAE format/blockRounded.dae
+  artifactKey: Guid(c07c0f29068124f379eeb8e259798175) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/kenney_platformer-kit/Models/DAE format/blockRounded.dae using Guid(c07c0f29068124f379eeb8e259798175) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a773c98fa827b78305bdc88fbb0e320') in 0.010854 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/UnityPrefabAssets/kenney_platformer-kit/Models/DAE format/blockQuarter.dae
+  artifactKey: Guid(a0714c4de33aa4698b84471291cb6ea7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/kenney_platformer-kit/Models/DAE format/blockQuarter.dae using Guid(a0714c4de33aa4698b84471291cb6ea7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3277fe5eeb1f0e4d9352b5bad383a616') in 0.010714 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/UnityPrefabAssets/kenney_platformer-kit/Models/DAE format/block.dae
+  artifactKey: Guid(c3607dcd9c72c4977854e026a8bb28c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/kenney_platformer-kit/Models/DAE format/block.dae using Guid(c3607dcd9c72c4977854e026a8bb28c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e23bc04a4fcf3965ab525a1b803d8cf2') in 0.010134 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000112 seconds.
+  path: Assets/UnityPrefabAssets/kenney_platformer-kit/Models/DAE format/blockCurveHalf.dae
+  artifactKey: Guid(232dded9b8bc04ebfa3093ad9eed7f91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/kenney_platformer-kit/Models/DAE format/blockCurveHalf.dae using Guid(232dded9b8bc04ebfa3093ad9eed7f91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d6564dfc0a21d726bfc9cd1953aa536') in 0.010602 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/UnityPrefabAssets/kenney_platformer-kit/Models/DAE format/blockRoundedLarge.dae
+  artifactKey: Guid(02d46ee07fc894551b062b851a9865e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/kenney_platformer-kit/Models/DAE format/blockRoundedLarge.dae using Guid(02d46ee07fc894551b062b851a9865e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e0e10986370a8076e1e545959b9d8403') in 0.009478 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/UnityPrefabAssets/kenney_platformer-kit/Models/DAE format/blockRoundedLong.dae
+  artifactKey: Guid(6a9bbef7d375e4f03be054a9d9c11fd4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/kenney_platformer-kit/Models/DAE format/blockRoundedLong.dae using Guid(6a9bbef7d375e4f03be054a9d9c11fd4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '85bb7d75bb58c40f9ea4ccbca2df991b') in 0.010187 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/UnityPrefabAssets/kenney_platformer-kit/Models/DAE format/blockCliff.dae
+  artifactKey: Guid(dac45c17ba0894ffb8b222539c05cf94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/kenney_platformer-kit/Models/DAE format/blockCliff.dae using Guid(dac45c17ba0894ffb8b222539c05cf94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4716b7b576fbeedde59b50a6d9eccd00') in 0.008850 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000179 seconds.
+  path: Assets/UnityPrefabAssets/kenney_platformer-kit/Models/DAE format/blockSnow.dae
+  artifactKey: Guid(d9367e02e7c814d42b76059e1ccb795c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/kenney_platformer-kit/Models/DAE format/blockSnow.dae using Guid(d9367e02e7c814d42b76059e1ccb795c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '27faf1934ed06adf21290f3efc1f5177') in 0.010300 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/UnityPrefabAssets/kenney_platformer-kit/Models/DAE format/blockDirtRamp.dae
+  artifactKey: Guid(dbdef1f54061145318749a311a5be683) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/kenney_platformer-kit/Models/DAE format/blockDirtRamp.dae using Guid(dbdef1f54061145318749a311a5be683) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '81c002b492b0f71e8f45210bb9f95ae6') in 0.007554 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 8
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/UnityPrefabAssets/kenney_platformer-kit/Models/DAE format/blockDirtRampHalf.dae
+  artifactKey: Guid(2b3bbd4054b85420b9e59cc738b9cf51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/kenney_platformer-kit/Models/DAE format/blockDirtRampHalf.dae using Guid(2b3bbd4054b85420b9e59cc738b9cf51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9fa6543fa390502198878ab83c929217') in 0.007597 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 8
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/UnityPrefabAssets/kenney_platformer-kit/Models/DAE format/blockRoundedLowLong.dae
+  artifactKey: Guid(346a00a9bb4df4500bf46e891a9e1b3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/kenney_platformer-kit/Models/DAE format/blockRoundedLowLong.dae using Guid(346a00a9bb4df4500bf46e891a9e1b3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '93671a97743fdcba7dc2ea56d9c792f2') in 0.008653 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 8
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/UnityPrefabAssets/kenney_platformer-kit/Models/DAE format/blockSnowCliff.dae
+  artifactKey: Guid(61ab29e08ba9443e4b6e48aed8f74ac0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/kenney_platformer-kit/Models/DAE format/blockSnowCliff.dae using Guid(61ab29e08ba9443e4b6e48aed8f74ac0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ed7a269b411d14f80a8c91020d1351e') in 0.013364 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000061 seconds.
+  path: Assets/UnityPrefabAssets/kenney_platformer-kit/Models/DAE format/blockSnowCurveLow.dae
+  artifactKey: Guid(e6cdda4533c8b44109be1c6257afdaaa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/kenney_platformer-kit/Models/DAE format/blockSnowCurveLow.dae using Guid(e6cdda4533c8b44109be1c6257afdaaa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c01c7dc0c6af1a0a6a19fa32ae23ffcd') in 0.010375 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/UnityPrefabAssets/kenney_platformer-kit/Models/DAE format/blockSnowCurveHalf.dae
+  artifactKey: Guid(8053cbac83aee4c8eb94facd7672395e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/kenney_platformer-kit/Models/DAE format/blockSnowCurveHalf.dae using Guid(8053cbac83aee4c8eb94facd7672395e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d079f97ada4c069631dbf76eaf594bb') in 0.010244 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000048 seconds.
+  path: Assets/UnityPrefabAssets/kenney_platformer-kit/Models/DAE format/blockSnowCornerSmall.dae
+  artifactKey: Guid(d579439ec8ea84e3a823816124c333d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/kenney_platformer-kit/Models/DAE format/blockSnowCornerSmall.dae using Guid(d579439ec8ea84e3a823816124c333d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ffa1c8834d7af568b315d4f4d6fcfe2') in 0.008857 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/UnityPrefabAssets/kenney_platformer-kit/Models/DAE format/blockMovingBlue.dae
+  artifactKey: Guid(83d27f64d46ae4daab3bb824da9d05e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/kenney_platformer-kit/Models/DAE format/blockMovingBlue.dae using Guid(83d27f64d46ae4daab3bb824da9d05e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e97a80a9737ae6ba96f76461ade3419e') in 0.010280 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000105 seconds.
+  path: Assets/UnityPrefabAssets/kenney_platformer-kit/Models/DAE format/blockMoving.dae
+  artifactKey: Guid(b32ceb753c6d94162b0a0b6a634647d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/kenney_platformer-kit/Models/DAE format/blockMoving.dae using Guid(b32ceb753c6d94162b0a0b6a634647d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '549b45715248b6d49788450bbc6d25bb') in 0.010844 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 10
+========================================================================
+Received Import Request.
+  Time since last request: 0.000043 seconds.
+  path: Assets/UnityPrefabAssets/kenney_platformer-kit/Models/DAE format/blockCornerSmall.dae
+  artifactKey: Guid(4866c8660aa0a4a839fa0edba503dac5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/kenney_platformer-kit/Models/DAE format/blockCornerSmall.dae using Guid(4866c8660aa0a4a839fa0edba503dac5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd0436a95a1e6d96b8a4877964fcd1341') in 0.009913 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Import Request.
+  Time since last request: 0.000052 seconds.
+  path: Assets/UnityPrefabAssets/kenney_platformer-kit/Models/DAE format/blockSnowCornerLarge.dae
+  artifactKey: Guid(1a22931ffb0c04ad998eaf7fd98b30e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/kenney_platformer-kit/Models/DAE format/blockSnowCornerLarge.dae using Guid(1a22931ffb0c04ad998eaf7fd98b30e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '032ea8bb6e2a46825c0c128f4d9cd43d') in 0.010990 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 9
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+Thread 0x177e1f000 may have been prematurely finalized
+- Loaded All Assemblies, in  0.180 seconds
+Refreshing native plugins compatible for Editor in 0.49 ms, found 2 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for iOS target not found
+Native extension for Android target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.388 seconds
+Domain Reload Profiling: 569ms
+	BeginReloadAssembly (66ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (2ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (24ms)
+	RebuildCommonClasses (18ms)
+	RebuildNativeTypeToScriptingClass (7ms)
+	initialDomainReloadingComplete (10ms)
+	LoadAllAssembliesAndSetupDomain (79ms)
+		LoadAssemblies (93ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (7ms)
+			TypeCache.Refresh (4ms)
+				TypeCache.ScanAssembly (0ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (2ms)
+	FinalizeReload (388ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (244ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (16ms)
+			SetLoadedEditorAssemblies (2ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (25ms)
+			ProcessInitializeOnLoadAttributes (193ms)
+			ProcessInitializeOnLoadMethodAttributes (8ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (2ms)
+Refreshing native plugins compatible for Editor in 0.51 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3096 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 23 unused Assets / (31.5 KB). Loaded Objects now: 3741.
+Memory consumption went from 436.1 MB to 436.1 MB.
+Total: 2.230500 ms (FindLiveObjects: 0.113458 ms CreateObjectMapping: 0.030917 ms MarkObjects: 2.049458 ms  DeleteObjects: 0.036250 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:CustomObjectIndexerAttribute: 6d391050e5a25f67b0a2c618074f2cd9 -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: 3918e3fc78b5a79bad01e8451be0beb8 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
