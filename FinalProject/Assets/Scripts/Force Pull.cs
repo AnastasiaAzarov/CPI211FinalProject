@@ -7,7 +7,7 @@ public class ForcePull : MonoBehaviour
     [Tooltip ("Hand that is the target destination of the pull")]
     public Transform hand;
 
-    [Tooltip ("Tag that is used to determine if an obhject is pullable or not")]
+    [Tooltip ("Tag that is used to determine if an object is pullable or not")]
     public string pullableTag;
 
     [Tooltip ("Force modifier, tweak to whatever (The higher the modifier the faster the object will go towards the hand)")]

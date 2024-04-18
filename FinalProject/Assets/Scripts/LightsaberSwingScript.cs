@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.Playables;
 
 public class LightsaberSwingScript : MonoBehaviour
 {
@@ -12,6 +13,9 @@ public class LightsaberSwingScript : MonoBehaviour
     public float ThrowcooldownTime = 5f;
     private float SwinglastUsedTime;
     private float ThrowlastUsedTime;
+
+    public PlayableDirector anim;
+
 
     
 
@@ -32,6 +36,7 @@ public class LightsaberSwingScript : MonoBehaviour
             GetComponent<Collider>().enabled = true;
             //animation
             StartCoroutine(LightsaberSwing());
+            
             //update cooldown
             SwinglastUsedTime = Time.time;
         }
@@ -42,17 +47,18 @@ public class LightsaberSwingScript : MonoBehaviour
             GetComponent<Collider>().enabled = true;
             //animation
             StartCoroutine(LightsaberThrow());
+            
             //update cooldown
             ThrowlastUsedTime = Time.time;
             Debug.Log("Throw");
         }
     }
-
+    
     IEnumerator LightsaberSwing()
     {
-        Lightsaber.GetComponent<Animator>().Play("LightsaberSwing");
+        Lightsaber.GetComponent<PlayableDirector>().Play();
         yield return new WaitForSeconds(1.0f);
-        Lightsaber.GetComponent<Animator>().Play("New State");
+        Lightsaber.GetComponent<PlayableDirector>().Stop();
 
         //turn off lightsaber hitbox when the animation is over
         GetComponent<Collider>().enabled = false;
@@ -60,11 +66,13 @@ public class LightsaberSwingScript : MonoBehaviour
 
     IEnumerator LightsaberThrow()
     {
-        Lightsaber.GetComponent<Animator>().Play("Lightsaber Throw");
+        anim.GetComponent<PlayableDirector>().Play();
         yield return new WaitForSeconds(1.0f);
-        Lightsaber.GetComponent<Animator>().Play("New State");
+        anim.GetComponent<PlayableDirector>().Stop();
 
         //turn off lightsaber hitbox when the animation is over
         GetComponent<Collider>().enabled = false;
     }
+    
+   
 }
