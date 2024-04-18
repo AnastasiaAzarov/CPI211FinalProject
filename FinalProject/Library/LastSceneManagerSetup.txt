@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/MasterLevel.unity
+- path: Assets/Scenes/PadawanLevel.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
