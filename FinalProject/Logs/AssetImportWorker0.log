@@ -4999,3 +4999,295 @@ Received Import Request.
 Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Script/BillboardScript.cs using Guid(f771f729641d6024f91e0ec722b9f129) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce19ac94e0bfd7107a70505b54eeb373') in 0.000578 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 474.618054 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Billboar Mesh/Brush 1
+  artifactKey: Guid(8e3308b061a95184ba49442f62df1834) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Billboar Mesh/Brush 1 using Guid(8e3308b061a95184ba49442f62df1834) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb5591691e71bfe6f72162eb3c3b2003') in 0.000828 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.214439 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Billboar Mesh/Brush 1/Blot Leaf A Billboard.fbx
+  artifactKey: Guid(c88e56958052b94428cd7722070551d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Billboar Mesh/Brush 1/Blot Leaf A Billboard.fbx using Guid(c88e56958052b94428cd7722070551d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e331caa58bb3ea073167609a4d4bf98') in 0.035689 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 10
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Billboar Mesh/Brush 1/Spiral Chute B1 Billboard.fbx
+  artifactKey: Guid(0716995c1a5fc504fb889f8dbb15bef6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Billboar Mesh/Brush 1/Spiral Chute B1 Billboard.fbx using Guid(0716995c1a5fc504fb889f8dbb15bef6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '83371cbac1fbad697ba31edcdf1f9753') in 0.010607 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 10
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Billboar Mesh/Brush 1/Spiral Chute D1 Billboard.fbx
+  artifactKey: Guid(9de4212a02967ab41b962cb032b65415) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Billboar Mesh/Brush 1/Spiral Chute D1 Billboard.fbx using Guid(9de4212a02967ab41b962cb032b65415) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e6f802d3fd9b7c8ea319e0a609ba60fb') in 0.008700 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 10
+========================================================================
+Received Import Request.
+  Time since last request: 0.000067 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Billboar Mesh/Brush 1/Blot Leaf C Billboard.fbx
+  artifactKey: Guid(d2fa916f5d097b244899411445fb4a65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Billboar Mesh/Brush 1/Blot Leaf C Billboard.fbx using Guid(d2fa916f5d097b244899411445fb4a65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '514c9efa191d092669aebdf20c2602b7') in 0.009924 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 10
+========================================================================
+Received Import Request.
+  Time since last request: 0.000041 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Billboar Mesh/Brush 1/Spiral Chute C1 Billboard.fbx
+  artifactKey: Guid(e5fa37c5661e73b48a90d4a3a31db63d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Billboar Mesh/Brush 1/Spiral Chute C1 Billboard.fbx using Guid(e5fa37c5661e73b48a90d4a3a31db63d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e6df623057df72672f3f7ff03d8fd32') in 0.010252 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 10
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Billboar Mesh/Brush 1/Spiral Chute B2 Billboard.fbx
+  artifactKey: Guid(d604dc5712721e54dbd1210cca5ac593) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Billboar Mesh/Brush 1/Spiral Chute B2 Billboard.fbx using Guid(d604dc5712721e54dbd1210cca5ac593) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5c68bf333632c0f278906d7f8c93e8bf') in 0.010137 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 10
+========================================================================
+Received Import Request.
+  Time since last request: 0.000047 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Billboar Mesh/Brush 1/Spiral Chute B3 Billboard.fbx
+  artifactKey: Guid(4168c871ee738754ba1710a3c8f94f75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Billboar Mesh/Brush 1/Spiral Chute B3 Billboard.fbx using Guid(4168c871ee738754ba1710a3c8f94f75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b346892528f5cbbd71667c42aa20a3fb') in 0.009871 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 10
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Billboar Mesh/Brush 1/Spiral Chute C3 Billboard.fbx
+  artifactKey: Guid(e752d92756200744d8d47fe860459062) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Billboar Mesh/Brush 1/Spiral Chute C3 Billboard.fbx using Guid(e752d92756200744d8d47fe860459062) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '40473e1778afb4ef6a9840e89a8fa489') in 0.008916 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 10
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Billboar Mesh/Brush 1/Spiral Chute D3 Billboard.fbx
+  artifactKey: Guid(8c27a7aac8404a241a4959d76fd1228b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Billboar Mesh/Brush 1/Spiral Chute D3 Billboard.fbx using Guid(8c27a7aac8404a241a4959d76fd1228b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '82767ee18ff3fa7f76549732d4990986') in 0.009492 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 10
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Billboar Mesh/Brush 1/Spiral Chute D2 Billboard.fbx
+  artifactKey: Guid(335f8cf571d7bc9439f57352121f6a75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Billboar Mesh/Brush 1/Spiral Chute D2 Billboard.fbx using Guid(335f8cf571d7bc9439f57352121f6a75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '38ae7365bf0e8ae10b700db42e7f6472') in 0.010377 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 10
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Billboar Mesh/Brush 1/Spiral Chute A2 Billboard.fbx
+  artifactKey: Guid(314f4e9499dcb0d4dba0c9c659caadc6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Billboar Mesh/Brush 1/Spiral Chute A2 Billboard.fbx using Guid(314f4e9499dcb0d4dba0c9c659caadc6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba2a3131df49f13772bec421a22d1337') in 0.009622 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 10
+========================================================================
+Received Import Request.
+  Time since last request: 0.000044 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Billboar Mesh/Brush 1/Spiral Chute C2 Billboard.fbx
+  artifactKey: Guid(c80cb5a95c65dad4e814aacdc0bc0d68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Billboar Mesh/Brush 1/Spiral Chute C2 Billboard.fbx using Guid(c80cb5a95c65dad4e814aacdc0bc0d68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '436c5cb8d9f6b1027bdc46b09b082fde') in 0.010009 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 10
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Billboar Mesh/Brush 1/Spiral Chute A1 Billboard.fbx
+  artifactKey: Guid(ed75e121779bef44fab4bad87b07db98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Billboar Mesh/Brush 1/Spiral Chute A1 Billboard.fbx using Guid(ed75e121779bef44fab4bad87b07db98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f776c5dff32562e1bb622aeabaa4415') in 0.008329 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 10
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Billboar Mesh/Brush 1/Blot Leaf D Billboard.fbx
+  artifactKey: Guid(df1b64232e35baf47aff7f0883b01225) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Billboar Mesh/Brush 1/Blot Leaf D Billboard.fbx using Guid(df1b64232e35baf47aff7f0883b01225) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e44fc98dbdbdeb4f8f09d49a7280cde') in 0.009247 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 10
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Billboar Mesh/Brush 1/Spiral Chute A3 Billboard.fbx
+  artifactKey: Guid(f2e8040ecb117a3449a75cbd855cc044) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Billboar Mesh/Brush 1/Spiral Chute A3 Billboard.fbx using Guid(f2e8040ecb117a3449a75cbd855cc044) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a0079611c4e1c365aaa28d166924e79') in 0.008794 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 10
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+Thread 0x28ab47000 may have been prematurely finalized
+- Loaded All Assemblies, in  0.231 seconds
+Refreshing native plugins compatible for Editor in 0.49 ms, found 2 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for iOS target not found
+Native extension for Android target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.599 seconds
+Domain Reload Profiling: 830ms
+	BeginReloadAssembly (83ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (2ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (32ms)
+	RebuildCommonClasses (19ms)
+	RebuildNativeTypeToScriptingClass (7ms)
+	initialDomainReloadingComplete (11ms)
+	LoadAllAssembliesAndSetupDomain (112ms)
+		LoadAssemblies (127ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (14ms)
+			TypeCache.Refresh (6ms)
+				TypeCache.ScanAssembly (0ms)
+			ScanForSourceGeneratedMonoScriptInfo (4ms)
+			ResolveRequiredComponents (4ms)
+	FinalizeReload (599ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (227ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (15ms)
+			SetLoadedEditorAssemblies (2ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (24ms)
+			ProcessInitializeOnLoadAttributes (178ms)
+			ProcessInitializeOnLoadMethodAttributes (7ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (1ms)
+Refreshing native plugins compatible for Editor in 0.62 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3103 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 24 unused Assets / (31.8 KB). Loaded Objects now: 3762.
+Memory consumption went from 446.2 MB to 446.2 MB.
+Total: 2.200416 ms (FindLiveObjects: 0.106000 ms CreateObjectMapping: 0.034292 ms MarkObjects: 2.030958 ms  DeleteObjects: 0.028833 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:CustomObjectIndexerAttribute: 6d391050e5a25f67b0a2c618074f2cd9 -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: 3918e3fc78b5a79bad01e8451be0beb8 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 22.660818 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Documentation/README.txt
+  artifactKey: Guid(ed81860535ea75940924f270957761a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Documentation/README.txt using Guid(ed81860535ea75940924f270957761a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '525c24f314726487c08c9ea583aeb1b1') in 0.005534 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 22.758172 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Demo Scene/Grid Demo Scene.unity
+  artifactKey: Guid(2b53308254e25473f85a1668d843ef4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Demo Scene/Grid Demo Scene.unity using Guid(2b53308254e25473f85a1668d843ef4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '543b532c3992fa0fd3cdc6479b8f2856') in 0.000708 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 32.593384 seconds.
+  path: Assets/Scenes/MasterLevel.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/MasterLevel.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2499206c9cec381537a3dc5020df768e') in 0.000556 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+Thread 0x28ab47000 may have been prematurely finalized
+- Loaded All Assemblies, in  0.194 seconds
+Refreshing native plugins compatible for Editor in 0.61 ms, found 2 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for iOS target not found
+Native extension for Android target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.573 seconds
+Domain Reload Profiling: 768ms
+	BeginReloadAssembly (69ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (2ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (25ms)
+	RebuildCommonClasses (19ms)
+	RebuildNativeTypeToScriptingClass (7ms)
+	initialDomainReloadingComplete (10ms)
+	LoadAllAssembliesAndSetupDomain (90ms)
+		LoadAssemblies (105ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (7ms)
+			TypeCache.Refresh (4ms)
+				TypeCache.ScanAssembly (0ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (2ms)
+	FinalizeReload (573ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (253ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (16ms)
+			SetLoadedEditorAssemblies (2ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (26ms)
+			ProcessInitializeOnLoadAttributes (199ms)
+			ProcessInitializeOnLoadMethodAttributes (8ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (2ms)
+Refreshing native plugins compatible for Editor in 0.70 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3103 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 23 unused Assets / (31.3 KB). Loaded Objects now: 3765.
+Memory consumption went from 455.9 MB to 455.9 MB.
+Total: 2.538209 ms (FindLiveObjects: 0.126750 ms CreateObjectMapping: 0.034208 ms MarkObjects: 2.336958 ms  DeleteObjects: 0.039917 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:CustomObjectIndexerAttribute: 6d391050e5a25f67b0a2c618074f2cd9 -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: 3918e3fc78b5a79bad01e8451be0beb8 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
