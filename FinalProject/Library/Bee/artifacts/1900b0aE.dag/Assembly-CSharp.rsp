@@ -385,6 +385,7 @@
 "Assets/Scripts/ReloadScene.cs"
 "Assets/Scripts/SFX.cs"
 "Assets/Scripts/SpawnEnemies.cs"
+"Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Script/BillboardScript.cs"
 -langversion:9.0
 
 /deterministic

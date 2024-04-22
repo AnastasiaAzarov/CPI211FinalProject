@@ -3211,3 +3211,1495 @@ Received Import Request.
 Start importing Assets/UnityPrefabAssets/Blood decal pack/blood/prefab/blood5.prefab using Guid(aec54d7a991d7b644b145d550a4b7831) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b00ee791523ce217128f5af5914ef920') in 0.012728 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 8
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+Thread 0x294287000 may have been prematurely finalized
+- Loaded All Assemblies, in  0.329 seconds
+Refreshing native plugins compatible for Editor in 0.52 ms, found 2 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for iOS target not found
+Native extension for Android target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.660 seconds
+Domain Reload Profiling: 989ms
+	BeginReloadAssembly (108ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (2ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (35ms)
+	RebuildCommonClasses (21ms)
+	RebuildNativeTypeToScriptingClass (8ms)
+	initialDomainReloadingComplete (14ms)
+	LoadAllAssembliesAndSetupDomain (177ms)
+		LoadAssemblies (208ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (18ms)
+			TypeCache.Refresh (10ms)
+				TypeCache.ScanAssembly (0ms)
+			ScanForSourceGeneratedMonoScriptInfo (4ms)
+			ResolveRequiredComponents (3ms)
+	FinalizeReload (660ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (250ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (18ms)
+			SetLoadedEditorAssemblies (2ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (25ms)
+			ProcessInitializeOnLoadAttributes (195ms)
+			ProcessInitializeOnLoadMethodAttributes (10ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (2ms)
+Refreshing native plugins compatible for Editor in 0.72 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3104 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 23 unused Assets / (31.3 KB). Loaded Objects now: 3753.
+Memory consumption went from 424.4 MB to 424.4 MB.
+Total: 2.599042 ms (FindLiveObjects: 0.117750 ms CreateObjectMapping: 0.031625 ms MarkObjects: 2.405542 ms  DeleteObjects: 0.043708 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:CustomObjectIndexerAttribute: 6d391050e5a25f67b0a2c618074f2cd9 -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: 3918e3fc78b5a79bad01e8451be0beb8 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+Thread 0x294287000 may have been prematurely finalized
+- Loaded All Assemblies, in  0.204 seconds
+Refreshing native plugins compatible for Editor in 0.56 ms, found 2 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for iOS target not found
+Native extension for Android target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.581 seconds
+Domain Reload Profiling: 785ms
+	BeginReloadAssembly (68ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (2ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (25ms)
+	RebuildCommonClasses (19ms)
+	RebuildNativeTypeToScriptingClass (7ms)
+	initialDomainReloadingComplete (10ms)
+	LoadAllAssembliesAndSetupDomain (100ms)
+		LoadAssemblies (107ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (14ms)
+			TypeCache.Refresh (7ms)
+				TypeCache.ScanAssembly (0ms)
+			ScanForSourceGeneratedMonoScriptInfo (4ms)
+			ResolveRequiredComponents (3ms)
+	FinalizeReload (581ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (235ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (18ms)
+			SetLoadedEditorAssemblies (2ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (25ms)
+			ProcessInitializeOnLoadAttributes (182ms)
+			ProcessInitializeOnLoadMethodAttributes (8ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (1ms)
+Refreshing native plugins compatible for Editor in 0.63 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3105 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 23 unused Assets / (31.4 KB). Loaded Objects now: 3756.
+Memory consumption went from 434.4 MB to 434.4 MB.
+Total: 2.184958 ms (FindLiveObjects: 0.101166 ms CreateObjectMapping: 0.031959 ms MarkObjects: 2.019833 ms  DeleteObjects: 0.031375 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:CustomObjectIndexerAttribute: 6d391050e5a25f67b0a2c618074f2cd9 -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: 3918e3fc78b5a79bad01e8451be0beb8 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 7218.741849 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Filter Fruit/Filter Fruit 1B.prefab
+  artifactKey: Guid(4c1dd560470925b4daf02fa0b7fb93a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Filter Fruit/Filter Fruit 1B.prefab using Guid(4c1dd560470925b4daf02fa0b7fb93a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd77ce94b75b5a4239db1cceb1786292') in 0.348506 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Filter Fruit/Filter Fruit 2A.prefab
+  artifactKey: Guid(4cd9af072af9a4240a6cb496491ad371) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Filter Fruit/Filter Fruit 2A.prefab using Guid(4cd9af072af9a4240a6cb496491ad371) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd1ef751b14c1bc426ca867aa7ac99a3') in 0.009536 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Filter Fruit/Filter Fruit 1C.prefab
+  artifactKey: Guid(4a8cac2f11c108d4497f2c22d9e74021) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Filter Fruit/Filter Fruit 1C.prefab using Guid(4a8cac2f11c108d4497f2c22d9e74021) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a216ba2f2395c6e0f093281edd9a21ec') in 0.009789 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Filter Fruit/Filter Fruit 4C.prefab
+  artifactKey: Guid(926574dc2f8a4254da96e248e9dd0358) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Filter Fruit/Filter Fruit 4C.prefab using Guid(926574dc2f8a4254da96e248e9dd0358) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '41a5356b195e75699e787806ed05c829') in 0.009195 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Filter Fruit/Filter Fruit 3D.prefab
+  artifactKey: Guid(548ef836ac81c9d4db7fa2e575e1fb42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Filter Fruit/Filter Fruit 3D.prefab using Guid(548ef836ac81c9d4db7fa2e575e1fb42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '441024bda8476e8741850c002614faf6') in 0.010647 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 0.000115 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Filter Fruit/Filter Fruit Leaf D.prefab
+  artifactKey: Guid(079bfa3811941234884a3a7f822f5472) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Filter Fruit/Filter Fruit Leaf D.prefab using Guid(079bfa3811941234884a3a7f822f5472) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5586785644f39dd836cb18753125e1a') in 0.009666 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Filter Fruit/Filter Fruit 2B.prefab
+  artifactKey: Guid(01212c251d9dfaf4580bcb4fa78101ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Filter Fruit/Filter Fruit 2B.prefab using Guid(01212c251d9dfaf4580bcb4fa78101ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aabd03aba74f77bb5f523529dec68771') in 0.009786 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 0.000073 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Filter Fruit/Filter Fruit 4A.prefab
+  artifactKey: Guid(4ab526df9766a3b45a973bd1d7b9d3c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Filter Fruit/Filter Fruit 4A.prefab using Guid(4ab526df9766a3b45a973bd1d7b9d3c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c12cb1e4098d1e2147c7a8d4569f5808') in 0.009153 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Filter Fruit/Filter Fruit 4B.prefab
+  artifactKey: Guid(4b0505accd4073d49aaa24ab72b35146) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Filter Fruit/Filter Fruit 4B.prefab using Guid(4b0505accd4073d49aaa24ab72b35146) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a6e23b7f3c702db77ce3b910b88eb06c') in 0.008289 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Filter Fruit/Filter Fruit 1D.prefab
+  artifactKey: Guid(bf8f6300b6102bd4f9eb00b5a3133d53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Filter Fruit/Filter Fruit 1D.prefab using Guid(bf8f6300b6102bd4f9eb00b5a3133d53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '987c6928b154629466c8da7ceae6e3d8') in 0.009892 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 5.281764 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Staright/Staright 1B.prefab
+  artifactKey: Guid(ea8522be0ee73c842940c45dac5dfd9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Staright/Staright 1B.prefab using Guid(ea8522be0ee73c842940c45dac5dfd9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a5ffd34f6806da21780bc95e61284f7') in 0.019205 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 0.000043 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Staright/Staright 1C.prefab
+  artifactKey: Guid(267bf3b95ecde4149ba6b3c66ea939d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Staright/Staright 1C.prefab using Guid(267bf3b95ecde4149ba6b3c66ea939d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e91f8a8e8fc7dc26df67bbf64faafca7') in 0.011539 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Staright/Staright Leaf D.prefab
+  artifactKey: Guid(065f4d58027952b4faf282b6463165d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Staright/Staright Leaf D.prefab using Guid(065f4d58027952b4faf282b6463165d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a03bf5f219226d27956d92f5eaf586f') in 0.011194 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Staright/Staright 2A.prefab
+  artifactKey: Guid(60d1b25c6e4de794689030f4d87736a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Staright/Staright 2A.prefab using Guid(60d1b25c6e4de794689030f4d87736a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f2eb8c1da6a88bf811af1c4c5f90f59') in 0.009610 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Staright/Staright Leaf B.prefab
+  artifactKey: Guid(445aa6b1a003fd94fbe92a88bcf2016c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Staright/Staright Leaf B.prefab using Guid(445aa6b1a003fd94fbe92a88bcf2016c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e54e99047222aa754f22ab35b147a279') in 0.010848 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 0.000046 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Staright/Staright 2C.prefab
+  artifactKey: Guid(f5e54fa8d28d9514785e77613b76b891) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Staright/Staright 2C.prefab using Guid(f5e54fa8d28d9514785e77613b76b891) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ec9c46087461362d18e822843e52758') in 0.009950 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 513.487959 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Padder Pod/Padder Pod 1B.prefab
+  artifactKey: Guid(3c01cc2fc5370c7469a9bf378ceaff32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Padder Pod/Padder Pod 1B.prefab using Guid(3c01cc2fc5370c7469a9bf378ceaff32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '99f7365a398a8299e3d2258cf07c388d') in 0.036449 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Padder Pod/Padder Pod 2D.prefab
+  artifactKey: Guid(4a8a3a35350bb5d4b9ed51a9c6741a1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Padder Pod/Padder Pod 2D.prefab using Guid(4a8a3a35350bb5d4b9ed51a9c6741a1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '05e4176e381723b64d1aab0d0a9bda67') in 0.012204 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Padder Pod/Padder Pod 4A.prefab
+  artifactKey: Guid(f310e1190cfd1f9429d59db58b22748b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Padder Pod/Padder Pod 4A.prefab using Guid(f310e1190cfd1f9429d59db58b22748b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb9b63c9ec940daa9936244ba2e8d457') in 0.009204 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 0.000043 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Padder Pod/Padder Pod 3A.prefab
+  artifactKey: Guid(df5aa14873481eb48aaf12e80f83c578) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Padder Pod/Padder Pod 3A.prefab using Guid(df5aa14873481eb48aaf12e80f83c578) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '676d8fbef4e8ad8a9e8d0ea2f1499d73') in 0.009383 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Padder Pod/Padder Pod 3D.prefab
+  artifactKey: Guid(cad355a798c7f174f831d11e0293f2d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Padder Pod/Padder Pod 3D.prefab using Guid(cad355a798c7f174f831d11e0293f2d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3fa724d1977a4ed9d3854aebc8ad43ac') in 0.009832 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Padder Pod/Padder Pod 1C.prefab
+  artifactKey: Guid(404e771487ca8cc4fa57412961906b3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Padder Pod/Padder Pod 1C.prefab using Guid(404e771487ca8cc4fa57412961906b3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ea5df44d9ba451d6cdb9a4ae84bddbd') in 0.009853 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Padder Pod/Padder Pod 3C.prefab
+  artifactKey: Guid(2a354cdb44284ee42bd64a795aab5f7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Padder Pod/Padder Pod 3C.prefab using Guid(2a354cdb44284ee42bd64a795aab5f7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a75a775b2d9857305be5f204403aa360') in 0.010179 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Padder Pod/Padder Pod 2C.prefab
+  artifactKey: Guid(64bb0ea5b9ef0ec468436aa2e9a118f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Padder Pod/Padder Pod 2C.prefab using Guid(64bb0ea5b9ef0ec468436aa2e9a118f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f61d92ebf730b64eadeb93c583a1e58') in 0.011173 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 337.714615 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Row Root/Row Root 1B.prefab
+  artifactKey: Guid(f01f8cfc0cf6afd40a0d79b3373a62c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Row Root/Row Root 1B.prefab using Guid(f01f8cfc0cf6afd40a0d79b3373a62c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '863e82333f9379d6c777de73d0b4ac6d') in 0.297538 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 11
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Row Root/Row Root 6B.prefab
+  artifactKey: Guid(7fd693ea10234e7489f7d9b9e500dbb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Row Root/Row Root 6B.prefab using Guid(7fd693ea10234e7489f7d9b9e500dbb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8cae870782d44412f168b010aad71196') in 0.007100 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 11
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Row Root/Row Root 4B.prefab
+  artifactKey: Guid(f5f487eb9b1683647a21c1141787d9ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Row Root/Row Root 4B.prefab using Guid(f5f487eb9b1683647a21c1141787d9ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '30700aca1e89a5836b7e75373a6604e6') in 0.008547 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 11
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Row Root/Row Root 2B.prefab
+  artifactKey: Guid(749ea38049aeaa241b9cfbe3fbf8b94e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Row Root/Row Root 2B.prefab using Guid(749ea38049aeaa241b9cfbe3fbf8b94e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf2818da37aaf939f54954998b16cb69') in 0.008923 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 11
+========================================================================
+Received Import Request.
+  Time since last request: 0.000046 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Row Root/Row Root 3B.prefab
+  artifactKey: Guid(b58ef90d0ad6c024b8fcf657660afe0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Row Root/Row Root 3B.prefab using Guid(b58ef90d0ad6c024b8fcf657660afe0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd14f65aa32190bc9579cb6741fedfc3') in 0.006248 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 11
+========================================================================
+Received Import Request.
+  Time since last request: 0.000063 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Row Root/Row Root 3A.prefab
+  artifactKey: Guid(efd17ea78a798b3479be0a2793257047) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Row Root/Row Root 3A.prefab using Guid(efd17ea78a798b3479be0a2793257047) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b62fc70acce81ae79782f93bf0fb8718') in 0.007186 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 11
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Row Root/Row Root 5B.prefab
+  artifactKey: Guid(26269c8ff6f547b4ca2fc9543d0381f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Row Root/Row Root 5B.prefab using Guid(26269c8ff6f547b4ca2fc9543d0381f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4855a3e6dc99918f9e441e186c978b89') in 0.007630 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 11
+========================================================================
+Received Import Request.
+  Time since last request: 0.000052 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Row Root/Row Root Leaf C.prefab
+  artifactKey: Guid(974901c44f81923408c722bbb0b4a58d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Row Root/Row Root Leaf C.prefab using Guid(974901c44f81923408c722bbb0b4a58d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '53ccdd9cb306dfd30326b6d14200fab1') in 0.007898 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 11
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Row Root/Row Root 2D.prefab
+  artifactKey: Guid(bcdf0628ddd23e846b12782d8f216eaf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Row Root/Row Root 2D.prefab using Guid(bcdf0628ddd23e846b12782d8f216eaf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b9925f1bfdbf07203e048548535d10f0') in 0.007741 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 11
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Row Root/Row Root 6D.prefab
+  artifactKey: Guid(6045e148abae2ee44b81b1298f2c0352) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Row Root/Row Root 6D.prefab using Guid(6045e148abae2ee44b81b1298f2c0352) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '30267183a1f1961d9f66d251e910a14f') in 0.007631 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 11
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Row Root/Row Root 4C.prefab
+  artifactKey: Guid(706c4d13864ab324a91da3fd77dcd4ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Row Root/Row Root 4C.prefab using Guid(706c4d13864ab324a91da3fd77dcd4ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1793640797f99d6e89d8fb9358113e87') in 0.007464 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 11
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Row Root/Row Root 1D.prefab
+  artifactKey: Guid(0c9a48e370dbcba41a1049ccf7ab5fb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Row Root/Row Root 1D.prefab using Guid(0c9a48e370dbcba41a1049ccf7ab5fb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b3d2c1168161f0fed91f757ca3d972bf') in 0.008091 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 11
+========================================================================
+Received Import Request.
+  Time since last request: 0.000042 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Row Root/Row Root 6C.prefab
+  artifactKey: Guid(3f4f2ef98c27e024db906b60a0185ab4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Row Root/Row Root 6C.prefab using Guid(3f4f2ef98c27e024db906b60a0185ab4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '093e1c925df3b7e2537d4d7967f5bf0b') in 0.008220 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 11
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Row Root/Row Root 2A.prefab
+  artifactKey: Guid(3f1a6fbc6271b1c48aec879be22b4c3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Row Root/Row Root 2A.prefab using Guid(3f1a6fbc6271b1c48aec879be22b4c3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce62d85684e221e3dfcf774a4bbb314f') in 0.007896 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 11
+========================================================================
+Received Import Request.
+  Time since last request: 90.463912 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Pitch Plant/Pitch Plant B.prefab
+  artifactKey: Guid(34bb188e2237d0e40b51e388a0aa4fe6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Pitch Plant/Pitch Plant B.prefab using Guid(34bb188e2237d0e40b51e388a0aa4fe6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9279e942b40f7e4ff97b12bc1d8df49d') in 0.017726 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 0.000056 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Pitch Plant/Pitch Plant C.prefab
+  artifactKey: Guid(582c3e4f350de6a40b28f4603f7d278d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Pitch Plant/Pitch Plant C.prefab using Guid(582c3e4f350de6a40b28f4603f7d278d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f91158f6e656d432814c3385cafb7bf3') in 0.010344 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Pitch Plant/Pitch Plant D.prefab
+  artifactKey: Guid(11fe83d98a2d0e54aa08a49ba1079da0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Pitch Plant/Pitch Plant D.prefab using Guid(11fe83d98a2d0e54aa08a49ba1079da0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7df10bd3e869de4e325b52ba8676b31e') in 0.011234 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Pitch Plant/Pitch Plant Leaf B.prefab
+  artifactKey: Guid(4a8ed426b6a5a8f4cbe09af53adb72b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Pitch Plant/Pitch Plant Leaf B.prefab using Guid(4a8ed426b6a5a8f4cbe09af53adb72b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '67c1ac9ec754a08c54c0787901fb5746') in 0.010497 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 6.472121 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Limbo Chute/Limbo Chute 1B.prefab
+  artifactKey: Guid(9e1a7cce3efb9bd46833cd29f7b5ca9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Limbo Chute/Limbo Chute 1B.prefab using Guid(9e1a7cce3efb9bd46833cd29f7b5ca9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '88879904370904a2ebf892980407eff2') in 0.225610 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 0.000056 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Limbo Chute/Limbo Chute 2C.prefab
+  artifactKey: Guid(d8097b3cb9f596140b1cb6bd490c9767) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Limbo Chute/Limbo Chute 2C.prefab using Guid(d8097b3cb9f596140b1cb6bd490c9767) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '200babbc591416f4c35f1760ba2813bd') in 0.012311 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Limbo Chute/Limbo Chute 1D.prefab
+  artifactKey: Guid(56438cc6832e1a14891ab3c77d41a1b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Limbo Chute/Limbo Chute 1D.prefab using Guid(56438cc6832e1a14891ab3c77d41a1b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b153fe71550919c72063c007e24e9493') in 0.008085 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 0.000050 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Limbo Chute/Limbo Chute 2A.prefab
+  artifactKey: Guid(475c284604bdd7f409bd300558801cda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Limbo Chute/Limbo Chute 2A.prefab using Guid(475c284604bdd7f409bd300558801cda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc32156a3f0edf4a7c7cc89fb0e11baa') in 0.008765 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 87.864782 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Hanging Luna Vine/Hanging Luna Vine A Accessory Vine.prefab
+  artifactKey: Guid(8909a909655a78744b85ec4bae6f1978) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Hanging Luna Vine/Hanging Luna Vine A Accessory Vine.prefab using Guid(8909a909655a78744b85ec4bae6f1978) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9358122dbcddd3f9ae02ac6e9ee8c95d') in 0.020383 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Hanging Luna Vine/Hanging Luna Vine B Wall Backless.prefab
+  artifactKey: Guid(080886e4741fe124ea265bc22330cf87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Hanging Luna Vine/Hanging Luna Vine B Wall Backless.prefab using Guid(080886e4741fe124ea265bc22330cf87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ac2bc376d2d4b79b0f843e886da80f1') in 0.012109 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 0.000040 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Hanging Luna Vine/Hanging Luna Vine B Corner Ledge.prefab
+  artifactKey: Guid(f734acbaf838db846b5621322534f418) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Hanging Luna Vine/Hanging Luna Vine B Corner Ledge.prefab using Guid(f734acbaf838db846b5621322534f418) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1485d182ceef57a600771a509c6e03c7') in 0.015816 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 0.000074 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Hanging Luna Vine/Hanging Luna Vine C Circular Ledge Backless.prefab
+  artifactKey: Guid(55b0e7bd126e7e242802422fbaa218b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Hanging Luna Vine/Hanging Luna Vine C Circular Ledge Backless.prefab using Guid(55b0e7bd126e7e242802422fbaa218b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '46f5c953ce4c3f1f45ec4d73fbb42257') in 0.011693 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Hanging Luna Vine/Hanging Luna Vine B Circular Ledge.prefab
+  artifactKey: Guid(be8c5efaceba7334f88018e4f9727d23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Hanging Luna Vine/Hanging Luna Vine B Circular Ledge.prefab using Guid(be8c5efaceba7334f88018e4f9727d23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '377bebcb88d16d2f8bdcf68567c6d1ee') in 0.009765 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 0.000099 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Hanging Luna Vine/Hanging Luna Vine B Accessory Vine Backless.prefab
+  artifactKey: Guid(83d4c6a0b6c1c9a4a9ecc0de716aaf68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Hanging Luna Vine/Hanging Luna Vine B Accessory Vine Backless.prefab using Guid(83d4c6a0b6c1c9a4a9ecc0de716aaf68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd4403513ef8944bce1abd587810e213') in 0.010043 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Hanging Luna Vine/Hanging Luna Vine C Circular Backless.prefab
+  artifactKey: Guid(021c988b8d7418243adead79d3bb1d2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Hanging Luna Vine/Hanging Luna Vine C Circular Backless.prefab using Guid(021c988b8d7418243adead79d3bb1d2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a9535fd1f6048e3b881c11f3f62e1939') in 0.010542 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Hanging Luna Vine/Hanging Luna Vine B Accessory Vine.prefab
+  artifactKey: Guid(5362d282728d8fe47a001f62a425021d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Hanging Luna Vine/Hanging Luna Vine B Accessory Vine.prefab using Guid(5362d282728d8fe47a001f62a425021d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '31251f3fb64164368c05f327f33e8955') in 0.009525 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 0.000076 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Hanging Luna Vine/Hanging Luna Vine A Wall Backless.prefab
+  artifactKey: Guid(5103950ec8638ac42b6b103937d2f122) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Hanging Luna Vine/Hanging Luna Vine A Wall Backless.prefab using Guid(5103950ec8638ac42b6b103937d2f122) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '982a63b4fc676dc1fbb04598a509018e') in 0.009369 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 0.000041 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Hanging Luna Vine/Hanging Luna Vine B Corner.prefab
+  artifactKey: Guid(98d57e7416beb564eb039fba32cf80ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Hanging Luna Vine/Hanging Luna Vine B Corner.prefab using Guid(98d57e7416beb564eb039fba32cf80ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a744714c6d4b7c0616fd36ae431c7b7d') in 0.008391 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 15
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Hanging Luna Vine/Hanging Luna Vine A Circular Backless.prefab
+  artifactKey: Guid(39d934fb826850245b7cc283df880b82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Hanging Luna Vine/Hanging Luna Vine A Circular Backless.prefab using Guid(39d934fb826850245b7cc283df880b82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c36f44d67cafbd241ce4a2805ac9b0f1') in 0.009556 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Hanging Luna Vine/Hanging Luna Vine A Circular Ledge Backless.prefab
+  artifactKey: Guid(29d762396ca35cc46b304c3db4c72aea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Hanging Luna Vine/Hanging Luna Vine A Circular Ledge Backless.prefab using Guid(29d762396ca35cc46b304c3db4c72aea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4bc025bd279cddee09afaf0b378ff976') in 0.010008 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Hanging Luna Vine/Hanging Luna Vine C Backless.prefab
+  artifactKey: Guid(6c3cbd1f875d42d4d90f2fcbb3ad9568) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Hanging Luna Vine/Hanging Luna Vine C Backless.prefab using Guid(6c3cbd1f875d42d4d90f2fcbb3ad9568) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '27306c26b7f5c04f8b3c5584ae79abdf') in 0.008614 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Hanging Luna Vine/Hanging Luna Vine A Extender.prefab
+  artifactKey: Guid(d8fbc4a0e8fbe0f4690d96a76bbad6a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Hanging Luna Vine/Hanging Luna Vine A Extender.prefab using Guid(d8fbc4a0e8fbe0f4690d96a76bbad6a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '31e0ebbc26dfe5e634be7af3c27db520') in 0.009003 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Hanging Luna Vine/Hanging Luna Vine B Ledge.prefab
+  artifactKey: Guid(873458cc35286874fa5c4ec78a9ad682) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Hanging Luna Vine/Hanging Luna Vine B Ledge.prefab using Guid(873458cc35286874fa5c4ec78a9ad682) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eacf160080a5c51de2429cbf26e37127') in 0.008464 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 0.000049 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Hanging Luna Vine/Hanging Luna Vine C Circular.prefab
+  artifactKey: Guid(ecde316c1442c9a4683f051c872c82ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Hanging Luna Vine/Hanging Luna Vine C Circular.prefab using Guid(ecde316c1442c9a4683f051c872c82ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7654e3eed1ce0f69dbf5de9e4cb1f7a8') in 0.008490 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 0.000040 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Hanging Luna Vine/Hanging Luna Vine A Corner Ledge Backless.prefab
+  artifactKey: Guid(2d54f3c86c5788b48bbecf7323ccd8f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Hanging Luna Vine/Hanging Luna Vine A Corner Ledge Backless.prefab using Guid(2d54f3c86c5788b48bbecf7323ccd8f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6081669401079428873936146257454e') in 0.008553 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Hanging Luna Vine/Hanging Luna Vine B Wall.prefab
+  artifactKey: Guid(86e1617b7e022f04a91a162e8b2f3c04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Hanging Luna Vine/Hanging Luna Vine B Wall.prefab using Guid(86e1617b7e022f04a91a162e8b2f3c04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5007752b8dcdadd002c63b6261bfa254') in 0.008901 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Hanging Luna Vine/Hanging Luna Vine B.prefab
+  artifactKey: Guid(6d03de834d357584ea9779cd4731154d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Hanging Luna Vine/Hanging Luna Vine B.prefab using Guid(6d03de834d357584ea9779cd4731154d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d8f1fa4121ebd53e256c8db29faf9d4') in 0.010537 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Hanging Luna Vine/Hanging Luna Vine B Extender Backless.prefab
+  artifactKey: Guid(9a7a1ba15049d28429da1cd9b9531cfd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Hanging Luna Vine/Hanging Luna Vine B Extender Backless.prefab using Guid(9a7a1ba15049d28429da1cd9b9531cfd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a69e7b2438bc89e487300839639aaef') in 0.008909 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 0.000049 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Hanging Luna Vine/Hanging Luna Vine C Accessory Vine Backless.prefab
+  artifactKey: Guid(2763ab1b1a5511d4b8d9130758853d1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Hanging Luna Vine/Hanging Luna Vine C Accessory Vine Backless.prefab using Guid(2763ab1b1a5511d4b8d9130758853d1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c504f1722cd9c11cce0872d9c8949278') in 0.009213 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Hanging Luna Vine/Hanging Luna Vine A Accessory Vine Backless.prefab
+  artifactKey: Guid(777ade7efa394524884e3abe53a4bb0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Hanging Luna Vine/Hanging Luna Vine A Accessory Vine Backless.prefab using Guid(777ade7efa394524884e3abe53a4bb0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2851ea6dfcc1040474802198ed43e31e') in 0.009697 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Hanging Luna Vine/Hanging Luna Vine A Ledge Backless.prefab
+  artifactKey: Guid(091204ed5872d3b42a9ebbf09ec8b145) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Hanging Luna Vine/Hanging Luna Vine A Ledge Backless.prefab using Guid(091204ed5872d3b42a9ebbf09ec8b145) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '592506c4263771701c939964a2b93e59') in 0.008840 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 1.952961 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Hanging Luna Vine/Hanging Luna Vine C Corner Ledge.prefab
+  artifactKey: Guid(a109995c33d08bf4ebb530cfcf10ef80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Hanging Luna Vine/Hanging Luna Vine C Corner Ledge.prefab using Guid(a109995c33d08bf4ebb530cfcf10ef80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e36ee2f158655744629b5fddc3d154b') in 0.016043 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Hanging Luna Vine/Hanging Luna Vine D Accessory Vine.prefab
+  artifactKey: Guid(bd6bf293a422787408a66fb9bea56cd7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Hanging Luna Vine/Hanging Luna Vine D Accessory Vine.prefab using Guid(bd6bf293a422787408a66fb9bea56cd7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e75aae23fd938a08226a96a2a7444e03') in 0.010555 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 0.000088 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Hanging Luna Vine/Hanging Luna Vine C Extender.prefab
+  artifactKey: Guid(a4fd097ad695ac74b88d2627c5fab98c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Hanging Luna Vine/Hanging Luna Vine C Extender.prefab using Guid(a4fd097ad695ac74b88d2627c5fab98c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f96a52d6220e28cd7916ee4504e7ec55') in 0.011228 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 0.000093 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Hanging Luna Vine/Hanging Luna Vine C Ledge Backless.prefab
+  artifactKey: Guid(4bbe276138e645f44857c32c1b685cdb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Hanging Luna Vine/Hanging Luna Vine C Ledge Backless.prefab using Guid(4bbe276138e645f44857c32c1b685cdb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e72d0ab11f28c068f00dcdb8f7f9f4b') in 0.009098 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Hanging Luna Vine/Hanging Luna Vine C Extender Backless.prefab
+  artifactKey: Guid(eee66624ac595f2499df01184ae76177) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Hanging Luna Vine/Hanging Luna Vine C Extender Backless.prefab using Guid(eee66624ac595f2499df01184ae76177) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3222f5a30e6527112499cc323593a2c3') in 0.008901 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 0.429284 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Hanging Luna Vine/Hanging Luna Vine D Backless.prefab
+  artifactKey: Guid(01d6949caa4306c41a23c43211d3976a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Hanging Luna Vine/Hanging Luna Vine D Backless.prefab using Guid(01d6949caa4306c41a23c43211d3976a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '329cea923a587bc707927e06bcf2edcd') in 0.010911 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 0.000043 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Hanging Luna Vine/Hanging Luna Vine D Corner Backless.prefab
+  artifactKey: Guid(8df89a3bfcbf6e14ca11001ae97024ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Hanging Luna Vine/Hanging Luna Vine D Corner Backless.prefab using Guid(8df89a3bfcbf6e14ca11001ae97024ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2002d971a4fce4e8811472d0b2462f24') in 0.011339 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 15
+========================================================================
+Received Import Request.
+  Time since last request: 0.000042 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Hanging Luna Vine/Hanging Luna Vine D Corner Ledge Backless.prefab
+  artifactKey: Guid(73aa1ef7f1ec3824f897e9001da8c392) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Hanging Luna Vine/Hanging Luna Vine D Corner Ledge Backless.prefab using Guid(73aa1ef7f1ec3824f897e9001da8c392) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ee3520ffbe328f428177400b9662f84') in 0.011367 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 0.000042 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Hanging Luna Vine/Hanging Luna Vine D Circular Backless.prefab
+  artifactKey: Guid(5db7ba89a678e4a4c8a9e0f9f553ed5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Hanging Luna Vine/Hanging Luna Vine D Circular Backless.prefab using Guid(5db7ba89a678e4a4c8a9e0f9f553ed5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'faa8abb3c1853a798b473a9da2ec043c') in 0.010275 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Hanging Luna Vine/Hanging Luna Vine D Corner.prefab
+  artifactKey: Guid(a82abc3ddaaf86242877c957a85e6217) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Hanging Luna Vine/Hanging Luna Vine D Corner.prefab using Guid(a82abc3ddaaf86242877c957a85e6217) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '440842661e99dfe0ab97a086b577abaa') in 0.010167 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 15
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Hanging Luna Vine/Hanging Luna Vine D Extender.prefab
+  artifactKey: Guid(9c2e0435f8b06824aa6053cae150a467) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Hanging Luna Vine/Hanging Luna Vine D Extender.prefab using Guid(9c2e0435f8b06824aa6053cae150a467) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c02150839174535ed6170c60c315e72') in 0.008144 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 0.033778 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Hanging Luna Vine/Hanging Luna Vine D Ledge.prefab
+  artifactKey: Guid(bd7f49e6adbb0824d81ce84785591e91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Hanging Luna Vine/Hanging Luna Vine D Ledge.prefab using Guid(bd7f49e6adbb0824d81ce84785591e91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de1f100004c572e29aedb639df770f5d') in 0.009058 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Hanging Luna Vine/Hanging Luna Vine D Wall Backless.prefab
+  artifactKey: Guid(a5f0c8495083f044da12a04b8a1ccec1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Hanging Luna Vine/Hanging Luna Vine D Wall Backless.prefab using Guid(a5f0c8495083f044da12a04b8a1ccec1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '54145bc5a1f0ca90c93d68b55d9a32a0') in 0.007704 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 216.692502 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Rooted Witch Reef/Rooted Witch Reef 1B.prefab
+  artifactKey: Guid(99ce8bdb9d28e4646b91e2c4dea6c018) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Rooted Witch Reef/Rooted Witch Reef 1B.prefab using Guid(99ce8bdb9d28e4646b91e2c4dea6c018) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd6bb86b8f5a76fa5d086561460a2e494') in 0.023309 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Rooted Witch Reef/Rooted Witch Reef 3B.prefab
+  artifactKey: Guid(03dab6a87d21e3d498c3af8b47810f41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Rooted Witch Reef/Rooted Witch Reef 3B.prefab using Guid(03dab6a87d21e3d498c3af8b47810f41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd2c5db8cc2bb933e0ab131a4b64f0305') in 0.013214 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 0.000043 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Rooted Witch Reef/Rooted Witch Reef Leaf A.prefab
+  artifactKey: Guid(4096f1c8e577d4945afdb4f160bc77a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Rooted Witch Reef/Rooted Witch Reef Leaf A.prefab using Guid(4096f1c8e577d4945afdb4f160bc77a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '47c385ed53d4369a5a96fca5d4abe485') in 0.009066 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 0.000044 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Rooted Witch Reef/Rooted Witch Reef 5A.prefab
+  artifactKey: Guid(be24c02099232d747995a7673e3f83a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Rooted Witch Reef/Rooted Witch Reef 5A.prefab using Guid(be24c02099232d747995a7673e3f83a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe0bcc0783490f42262c49d64a9d8a25') in 0.009950 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Rooted Witch Reef/Rooted Witch Reef 2C.prefab
+  artifactKey: Guid(fd9559e5eba35524bbb07f93602b6905) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Rooted Witch Reef/Rooted Witch Reef 2C.prefab using Guid(fd9559e5eba35524bbb07f93602b6905) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '124fea30b4d2215875ace69b9005c4a5') in 0.009387 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 0.000069 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Rooted Witch Reef/Rooted Witch Reef 2B.prefab
+  artifactKey: Guid(73ef9ff1f8b1b564fbed73ee60e4a4d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Rooted Witch Reef/Rooted Witch Reef 2B.prefab using Guid(73ef9ff1f8b1b564fbed73ee60e4a4d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b7d76303cdadb5b1a35f6ad75caeaa88') in 0.008577 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Rooted Witch Reef/Rooted Witch Reef 5B.prefab
+  artifactKey: Guid(3376d623a9aee7e4fa16e3ca9afdebc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Rooted Witch Reef/Rooted Witch Reef 5B.prefab using Guid(3376d623a9aee7e4fa16e3ca9afdebc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e46dd5e12b49210dd4004785c1a4538') in 0.008044 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Rooted Witch Reef/Rooted Witch Reef 2A.prefab
+  artifactKey: Guid(1f15eee59b6407c4db0dd528d6a06577) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Rooted Witch Reef/Rooted Witch Reef 2A.prefab using Guid(1f15eee59b6407c4db0dd528d6a06577) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '582e3d998307fe9c9f1b5345d2849a13') in 0.008819 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Rooted Witch Reef/Rooted Witch Reef 3C.prefab
+  artifactKey: Guid(a97f600f6f98e594789a51c51aab9133) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Rooted Witch Reef/Rooted Witch Reef 3C.prefab using Guid(a97f600f6f98e594789a51c51aab9133) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'faed7a31d08a7a888b3b3441b832b70c') in 0.008607 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Rooted Witch Reef/Rooted Witch Reef 2D.prefab
+  artifactKey: Guid(927265ca2b2695b458a30ef2c24b918a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Rooted Witch Reef/Rooted Witch Reef 2D.prefab using Guid(927265ca2b2695b458a30ef2c24b918a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f53a3410e1d1b95cd51c171b25280b4') in 0.008357 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Rooted Witch Reef/Rooted Witch Reef 5D.prefab
+  artifactKey: Guid(1ad23a02884277d47ad5cb16a0b0a2f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Rooted Witch Reef/Rooted Witch Reef 5D.prefab using Guid(1ad23a02884277d47ad5cb16a0b0a2f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '40dd83122c4dfa4807dd6b49b78e8f73') in 0.008577 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Rooted Witch Reef/Rooted Witch Reef Leaf C.prefab
+  artifactKey: Guid(c7f8685856967a54a83c071f74b57a78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Rooted Witch Reef/Rooted Witch Reef Leaf C.prefab using Guid(c7f8685856967a54a83c071f74b57a78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f221eff6b28f23868ff28fa19d3f40d6') in 0.008529 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 0.000053 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Rooted Witch Reef/Rooted Witch Reef 4D.prefab
+  artifactKey: Guid(8d77d3d7546a3f04887032b78a47e1e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Rooted Witch Reef/Rooted Witch Reef 4D.prefab using Guid(8d77d3d7546a3f04887032b78a47e1e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8473ba7f78cf44c12739014ec8ccebcf') in 0.010021 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 4.198096 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Sheen Stalk/Sheen Stalk 1B.prefab
+  artifactKey: Guid(71fc2582b0c5b884a9c354b4d27251cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Sheen Stalk/Sheen Stalk 1B.prefab using Guid(71fc2582b0c5b884a9c354b4d27251cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '07379f2fd878f03b8a8fbcb943d31fa7') in 0.020033 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 0.000048 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Sheen Stalk/Sheen Stalk 3A.prefab
+  artifactKey: Guid(d0f9bffe6578a3c4fbae4644c11c7076) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Sheen Stalk/Sheen Stalk 3A.prefab using Guid(d0f9bffe6578a3c4fbae4644c11c7076) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a2c8a6aa3511fa0cd4758de07e58de0') in 0.013155 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Sheen Stalk/Sheen Stalk 3B.prefab
+  artifactKey: Guid(db8c38897cbdd92488f53917fa70e154) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Sheen Stalk/Sheen Stalk 3B.prefab using Guid(db8c38897cbdd92488f53917fa70e154) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '53b0e2ac17df7474863f651e0d20e1a4') in 0.011743 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Sheen Stalk/Sheen Stalk 3D.prefab
+  artifactKey: Guid(4db45f09fc454aa4aac210bc7ba346ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Sheen Stalk/Sheen Stalk 3D.prefab using Guid(4db45f09fc454aa4aac210bc7ba346ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b339454565840b89734e211993bfd09') in 0.011001 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Sheen Stalk/Sheen Stalk 4B.prefab
+  artifactKey: Guid(282c03b994c4f034ab8cb6ec512a5536) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Sheen Stalk/Sheen Stalk 4B.prefab using Guid(282c03b994c4f034ab8cb6ec512a5536) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd9d97b83a4a4b46f92102740368afed9') in 0.010618 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Sheen Stalk/Sheen Stalk 2D.prefab
+  artifactKey: Guid(ebda6fc441236cb438e359c7b44a700d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Sheen Stalk/Sheen Stalk 2D.prefab using Guid(ebda6fc441236cb438e359c7b44a700d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '50c07570b9a293113b8a5bdc1e37b62a') in 0.010829 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Sheen Stalk/Sheen Stalk 3C.prefab
+  artifactKey: Guid(d4b3db3074f6e7241963061c5fe3d388) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Sheen Stalk/Sheen Stalk 3C.prefab using Guid(d4b3db3074f6e7241963061c5fe3d388) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab4ee89e18b806d4a5ec7a2040a659c8') in 0.010012 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Sheen Stalk/Sheen Stalk 2A.prefab
+  artifactKey: Guid(8a8aaefe713946a40a35243c63ff4588) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Sheen Stalk/Sheen Stalk 2A.prefab using Guid(8a8aaefe713946a40a35243c63ff4588) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d381b56481d59a8ca6f298e571cc728') in 0.009693 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 0.000046 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Sheen Stalk/Sheen Stalk 4A.prefab
+  artifactKey: Guid(14314c1963a3cb641968911161a0221d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Sheen Stalk/Sheen Stalk 4A.prefab using Guid(14314c1963a3cb641968911161a0221d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3de1410d71392a2f586bd5c4f7676ed3') in 0.009347 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Sheen Stalk/Sheen Stalk 1C.prefab
+  artifactKey: Guid(25e1db3e922743549bb37c51ac462645) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Sheen Stalk/Sheen Stalk 1C.prefab using Guid(25e1db3e922743549bb37c51ac462645) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '69e6f6ae5ee6683a806138cd8d9475cf') in 0.008241 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 96.952185 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Foil Leaf/Foil Leaf 1B.prefab
+  artifactKey: Guid(b6efba830d0de9442a0aa6542148013d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Foil Leaf/Foil Leaf 1B.prefab using Guid(b6efba830d0de9442a0aa6542148013d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '973ba11082fbb1c13a8be7e49fd62ece') in 0.019820 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 0.000040 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Foil Leaf/Foil Leaf 1D.prefab
+  artifactKey: Guid(b3528c93a058d5c49bf790a9293aa2bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Foil Leaf/Foil Leaf 1D.prefab using Guid(b3528c93a058d5c49bf790a9293aa2bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b3bcd7d960968e6072013452bb12b1bc') in 0.019162 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 0.000041 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Foil Leaf/Foil Leaf 5A.prefab
+  artifactKey: Guid(2a6bada7fd5b203488091c9bbe94d936) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Foil Leaf/Foil Leaf 5A.prefab using Guid(2a6bada7fd5b203488091c9bbe94d936) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f09f1987c64ef6ed04c5d27ce135add5') in 0.010746 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Foil Leaf/Foil Leaf Leaf A.prefab
+  artifactKey: Guid(b0e9a28cc6f5bd64199ade40734a5580) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Foil Leaf/Foil Leaf Leaf A.prefab using Guid(b0e9a28cc6f5bd64199ade40734a5580) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '19855d992aff3d7a5ea5f596e0af34ff') in 0.009589 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Foil Leaf/Foil Leaf 2A.prefab
+  artifactKey: Guid(81082ed833280b049b9b4a7de24f260f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Foil Leaf/Foil Leaf 2A.prefab using Guid(81082ed833280b049b9b4a7de24f260f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '694ee55f05386ee458d7842904af1526') in 0.009850 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 0.000078 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Foil Leaf/Foil Leaf 2D.prefab
+  artifactKey: Guid(0d7abab0f78203946abc7814c9a75f27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Foil Leaf/Foil Leaf 2D.prefab using Guid(0d7abab0f78203946abc7814c9a75f27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ec9db8f55878d613f0a52e3ea934943') in 0.008927 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Foil Leaf/Foil Leaf 4D.prefab
+  artifactKey: Guid(c87adf5ad67c78c42a68f634c4dfa0e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Foil Leaf/Foil Leaf 4D.prefab using Guid(c87adf5ad67c78c42a68f634c4dfa0e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2725ac7ad3a833a89cd28fc67e7f930e') in 0.009154 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Foil Leaf/Foil Leaf 5C.prefab
+  artifactKey: Guid(6bddbddf90d89f34dbb8ff655bb03e77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Foil Leaf/Foil Leaf 5C.prefab using Guid(6bddbddf90d89f34dbb8ff655bb03e77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '818e4dbf670fc384bed479470ec64122') in 0.009380 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Foil Leaf/Foil Leaf 3D.prefab
+  artifactKey: Guid(bcaaa0185a4a1fe47841b58b263b76ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Foil Leaf/Foil Leaf 3D.prefab using Guid(bcaaa0185a4a1fe47841b58b263b76ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9dff35aa4e3a982eda8eecef1531bac5') in 0.009041 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Foil Leaf/Foil Leaf 5D.prefab
+  artifactKey: Guid(7df5a27d7e6fa7c45bef0881b516918c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Foil Leaf/Foil Leaf 5D.prefab using Guid(7df5a27d7e6fa7c45bef0881b516918c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87218f1727c00d51dde20aba34bed14b') in 0.007809 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Foil Leaf/Foil Leaf 4A.prefab
+  artifactKey: Guid(b87ee4022bdda0e4db59b095bd13175e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Foil Leaf/Foil Leaf 4A.prefab using Guid(b87ee4022bdda0e4db59b095bd13175e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae4784d76cf37a1eb77125931438ec08') in 0.008332 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Foil Leaf/Foil Leaf 1C.prefab
+  artifactKey: Guid(e8a942dd60d5a664a8ef59650750c959) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Foil Leaf/Foil Leaf 1C.prefab using Guid(e8a942dd60d5a664a8ef59650750c959) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef5938b174074bbc51b326ef68805a63') in 0.008590 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 811.833630 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Spiral Chute/Spiral Chute 1B.prefab
+  artifactKey: Guid(ac906d9b0096d69438ff0c3b9fce8c7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Spiral Chute/Spiral Chute 1B.prefab using Guid(ac906d9b0096d69438ff0c3b9fce8c7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7bfaee86c29e84410c6941a8dd0293ad') in 0.017884 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Spiral Chute/Spiral Chute 1C.prefab
+  artifactKey: Guid(25b55a1240cf1cb4dbb9b31e491088db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Spiral Chute/Spiral Chute 1C.prefab using Guid(25b55a1240cf1cb4dbb9b31e491088db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9000fd9c22246416f507ded3fc60fa01') in 0.014191 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 0.000055 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Spiral Chute/Spiral Chute 1D.prefab
+  artifactKey: Guid(2f4df109cf0af4249b2097af62435b03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Spiral Chute/Spiral Chute 1D.prefab using Guid(2f4df109cf0af4249b2097af62435b03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f084a08c5ec50b8b72079c92e1b0758d') in 0.011553 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 0.000075 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Spiral Chute/Spiral Chute 3A.prefab
+  artifactKey: Guid(e13a6de32fd167a4886e2464d3406002) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Spiral Chute/Spiral Chute 3A.prefab using Guid(e13a6de32fd167a4886e2464d3406002) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '21de784ebc979b3d37afedbbb733a91b') in 0.011277 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Spiral Chute/Spiral Chute Leaf B.prefab
+  artifactKey: Guid(d2e44e24701c12b4eadf97b357e04aa9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Spiral Chute/Spiral Chute Leaf B.prefab using Guid(d2e44e24701c12b4eadf97b357e04aa9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8150f139f78722acac87328e921f27f1') in 0.011514 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 0.000040 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Spiral Chute/Spiral Chute Leaf C.prefab
+  artifactKey: Guid(94d0098780112bd43a89cbed831c4eb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Spiral Chute/Spiral Chute Leaf C.prefab using Guid(94d0098780112bd43a89cbed831c4eb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea337fdf23725147997f4cca3a8b84ff') in 0.010593 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Spiral Chute/Spiral Chute 3C.prefab
+  artifactKey: Guid(9ebe75c249a903942b98364bcdd84e6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Spiral Chute/Spiral Chute 3C.prefab using Guid(9ebe75c249a903942b98364bcdd84e6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '878fdba2c3f6a85a53c18e543a221806') in 0.009841 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Spiral Chute/Spiral Chute 2D.prefab
+  artifactKey: Guid(fcb057789642de04b9c7e88027c5e29c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Spiral Chute/Spiral Chute 2D.prefab using Guid(fcb057789642de04b9c7e88027c5e29c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8aa644878379eb2f8db1e3afc86ca238') in 0.009623 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 34.194119 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Painter Wort/Painter Wort B.prefab
+  artifactKey: Guid(e2e66c63a956bad49a27c262c1e8f11f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Painter Wort/Painter Wort B.prefab using Guid(e2e66c63a956bad49a27c262c1e8f11f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3230c300b8b7ee382f9b2e28ae0af58c') in 0.019808 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 11
+========================================================================
+Received Import Request.
+  Time since last request: 0.000041 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Painter Wort/Painter Wort D.prefab
+  artifactKey: Guid(f4c6d91865b47d742bf1e7965b4bf9f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Painter Wort/Painter Wort D.prefab using Guid(f4c6d91865b47d742bf1e7965b4bf9f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1bd004a080f01fedc57f3918aa6242b4') in 0.008479 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 11
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Painter Wort/Painter Wort Leaf D.prefab
+  artifactKey: Guid(635e93f67636e1a4eb7f47a71052b24e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Painter Wort/Painter Wort Leaf D.prefab using Guid(635e93f67636e1a4eb7f47a71052b24e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9dd57e524677838d79fd8e2917a7383c') in 0.008135 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 11
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Painter Wort/Painter Wort Leaf C.prefab
+  artifactKey: Guid(528a9e10df463344d9290218e609fe39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Painter Wort/Painter Wort Leaf C.prefab using Guid(528a9e10df463344d9290218e609fe39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e8c493d15c9290defe19a0877ff67ab2') in 0.007476 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 11
+========================================================================
+Received Import Request.
+  Time since last request: 8.276094 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Fuzz Brush/Fuzz Brush 1B.prefab
+  artifactKey: Guid(097b9cece35689248b1925049ac52161) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Fuzz Brush/Fuzz Brush 1B.prefab using Guid(097b9cece35689248b1925049ac52161) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '56f31f90901f2443348b2337c75c9ccf') in 0.022684 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 0.000049 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Fuzz Brush/Fuzz Brush 2C.prefab
+  artifactKey: Guid(3be5ec90c3fc30646bc0c4a95866fb3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Fuzz Brush/Fuzz Brush 2C.prefab using Guid(3be5ec90c3fc30646bc0c4a95866fb3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '251e816b6f0284fac68ef92be94106e8') in 0.012241 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 0.000043 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Fuzz Brush/Fuzz Brush 4C.prefab
+  artifactKey: Guid(323c25b3215a17642b9e327de3f0e42f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Fuzz Brush/Fuzz Brush 4C.prefab using Guid(323c25b3215a17642b9e327de3f0e42f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '154d90f96d1c6b98a9db1a9c5c676aae') in 0.014509 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 0.000040 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Fuzz Brush/Fuzz Brush 5C.prefab
+  artifactKey: Guid(dff6c2b01f1d02c4aac5af071968bf92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Fuzz Brush/Fuzz Brush 5C.prefab using Guid(dff6c2b01f1d02c4aac5af071968bf92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '91af1bea77fcb7927a94980f8561e199') in 0.010633 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Fuzz Brush/Fuzz Brush 2D.prefab
+  artifactKey: Guid(9c56a98765599f545bb4d0960b1f5f3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Fuzz Brush/Fuzz Brush 2D.prefab using Guid(9c56a98765599f545bb4d0960b1f5f3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e2d156bf3774e2d85455f3e5c362c7e3') in 0.009662 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 0.000040 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Fuzz Brush/Fuzz Brush 5B.prefab
+  artifactKey: Guid(b8f8710d89ab1c046a192926de595407) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Fuzz Brush/Fuzz Brush 5B.prefab using Guid(b8f8710d89ab1c046a192926de595407) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '213952b7f4ed61829182266b79c480a4') in 0.009688 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Fuzz Brush/Fuzz Brush 5D.prefab
+  artifactKey: Guid(d4501c8d8a024a2418be5c205fcd38ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Fuzz Brush/Fuzz Brush 5D.prefab using Guid(d4501c8d8a024a2418be5c205fcd38ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de60981bf9725459589ecd8347cb2a5c') in 0.010049 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 0.000040 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Fuzz Brush/Fuzz Brush 3C.prefab
+  artifactKey: Guid(8f0f17dd7ca7e564e8b7697a9a356670) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Fuzz Brush/Fuzz Brush 3C.prefab using Guid(8f0f17dd7ca7e564e8b7697a9a356670) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1142669470605c5a31ba1d322055893a') in 0.009424 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Fuzz Brush/Fuzz Brush 6B.prefab
+  artifactKey: Guid(fd31c481e8793474f8b68e789945dc81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Fuzz Brush/Fuzz Brush 6B.prefab using Guid(fd31c481e8793474f8b68e789945dc81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b0aad28800293c56f262ab275f6cd885') in 0.008950 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Fuzz Brush/Fuzz Brush 6D.prefab
+  artifactKey: Guid(b1b737c29f53551458ad0ecadb4b7e49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Fuzz Brush/Fuzz Brush 6D.prefab using Guid(b1b737c29f53551458ad0ecadb4b7e49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b5569f274fce24ada62c59a1af655fe1') in 0.009803 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Fuzz Brush/Fuzz Brush 3B.prefab
+  artifactKey: Guid(feff42c05f60a4344bc153a26a29699c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Fuzz Brush/Fuzz Brush 3B.prefab using Guid(feff42c05f60a4344bc153a26a29699c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a6d8372c86bb64179b74a85ea11fd910') in 0.009837 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Fuzz Brush/Fuzz Brush 4B.prefab
+  artifactKey: Guid(8e68ba63d5891da43a2e982dbe4cb189) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Fuzz Brush/Fuzz Brush 4B.prefab using Guid(8e68ba63d5891da43a2e982dbe4cb189) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '976f867a7bc05a94c91b7fde61a29413') in 0.007667 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 18.628173 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Two Faced Tuber/Two Faced Tuber 1B.prefab
+  artifactKey: Guid(6280c1ff3a5e84d438dcd1dc6f210806) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Two Faced Tuber/Two Faced Tuber 1B.prefab using Guid(6280c1ff3a5e84d438dcd1dc6f210806) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '09ebe61b92bb8b030fb52108c6622134') in 0.019310 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Two Faced Tuber/Two Faced Tuber 2D.prefab
+  artifactKey: Guid(4d052121f61220c479b2e7f045415564) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Two Faced Tuber/Two Faced Tuber 2D.prefab using Guid(4d052121f61220c479b2e7f045415564) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '600452a4a10a4d79f57d46c42c7752a3') in 0.010719 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Two Faced Tuber/Two Faced Tuber 1D.prefab
+  artifactKey: Guid(dc877ea8ba3fd3747abf1c3c23698df7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Two Faced Tuber/Two Faced Tuber 1D.prefab using Guid(dc877ea8ba3fd3747abf1c3c23698df7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b6291146f577b9bd499e3099a493dd6') in 0.009429 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Two Faced Tuber/Two Faced Tuber 3B.prefab
+  artifactKey: Guid(6e0c0cdd6e294564493fbc5d4f02931d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Two Faced Tuber/Two Faced Tuber 3B.prefab using Guid(6e0c0cdd6e294564493fbc5d4f02931d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '13c0cd83639cb7e105e0807fe95d61e4') in 0.010608 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Two Faced Tuber/Two Faced Tuber Leaf A.prefab
+  artifactKey: Guid(8e77246c4609c7c4da98d65411d762d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Two Faced Tuber/Two Faced Tuber Leaf A.prefab using Guid(8e77246c4609c7c4da98d65411d762d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '920294e950e6e8c34751a3ee9841e073') in 0.010128 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Two Faced Tuber/Two Faced Tuber Leaf D.prefab
+  artifactKey: Guid(804c1e92ef3b9844ebe75b6c0bda6db5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Two Faced Tuber/Two Faced Tuber Leaf D.prefab using Guid(804c1e92ef3b9844ebe75b6c0bda6db5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '20ddec4c5bdd5a2561ca242bfe92e511') in 0.009834 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Two Faced Tuber/Two Faced Tuber 2A.prefab
+  artifactKey: Guid(df846a46561f5814499a25f57ce7fbcb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Two Faced Tuber/Two Faced Tuber 2A.prefab using Guid(df846a46561f5814499a25f57ce7fbcb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c6c2d83bc924924cbfbb0723e718fb3b') in 0.009723 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Two Faced Tuber/Two Faced Tuber Leaf C.prefab
+  artifactKey: Guid(538faade98409b049b85982e32fa21cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution Prefabs/Two Faced Tuber/Two Faced Tuber Leaf C.prefab using Guid(538faade98409b049b85982e32fa21cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9802dda65685924722afb9c68c1732f5') in 0.009062 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 12
+========================================================================
+Received Import Request.
+  Time since last request: 172.187136 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution With Level Of Detail/Bluntspear/Bluntspear 1B.prefab
+  artifactKey: Guid(6dcd3783802a873448c2497d61572875) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution With Level Of Detail/Bluntspear/Bluntspear 1B.prefab using Guid(6dcd3783802a873448c2497d61572875) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ce697fce9016927020b74c3a4188879') in 0.034842 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 28
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution With Level Of Detail/Bluntspear/Bluntspear 2A.prefab
+  artifactKey: Guid(0ad2914bc87ef0f428b5a12a4d6c4560) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution With Level Of Detail/Bluntspear/Bluntspear 2A.prefab using Guid(0ad2914bc87ef0f428b5a12a4d6c4560) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a22247f271e45ed67d02eca61ae78cb8') in 0.016194 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 28
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution With Level Of Detail/Bluntspear/Bluntspear 2C.prefab
+  artifactKey: Guid(ff56ee869f45ab64c8692f3a5fbae8d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution With Level Of Detail/Bluntspear/Bluntspear 2C.prefab using Guid(ff56ee869f45ab64c8692f3a5fbae8d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a66f1447c653853899f33009daac0b0f') in 0.015953 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 28
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution With Level Of Detail/Bluntspear/Bluntspear 5C.prefab
+  artifactKey: Guid(1ef3b9b0cb910354b9af2e996c9ddbac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution With Level Of Detail/Bluntspear/Bluntspear 5C.prefab using Guid(1ef3b9b0cb910354b9af2e996c9ddbac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '621f9d1d1dffa49050f099c737070d85') in 0.017671 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 28
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution With Level Of Detail/Bluntspear/Bluntspear 5A.prefab
+  artifactKey: Guid(d40a6b347a5a47746af36205ad602a45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution With Level Of Detail/Bluntspear/Bluntspear 5A.prefab using Guid(d40a6b347a5a47746af36205ad602a45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '74e44e0f405fa5c4af3a3e1d84acc128') in 0.014523 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 28
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution With Level Of Detail/Bluntspear/Bluntspear 5B.prefab
+  artifactKey: Guid(d2a55ffb61ff2e34587859786f6e7c83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution With Level Of Detail/Bluntspear/Bluntspear 5B.prefab using Guid(d2a55ffb61ff2e34587859786f6e7c83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c498cdde563d278c53b07623e5fb6c7e') in 0.014093 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 28
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution With Level Of Detail/Bluntspear/Bluntspear 5D.prefab
+  artifactKey: Guid(487793dfd6619e74ebb950e8cd9f5005) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution With Level Of Detail/Bluntspear/Bluntspear 5D.prefab using Guid(487793dfd6619e74ebb950e8cd9f5005) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e31d8193b7f43581a167217dba51540d') in 0.014279 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 28
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution With Level Of Detail/Bluntspear/Bluntspear 3D.prefab
+  artifactKey: Guid(e67abc939a22fd2468026fd3d5c36d78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution With Level Of Detail/Bluntspear/Bluntspear 3D.prefab using Guid(e67abc939a22fd2468026fd3d5c36d78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a4d4847c9f09ff53aca564cc91a1f58') in 0.012403 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 28
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution With Level Of Detail/Bluntspear/Bluntspear Leaf B.prefab
+  artifactKey: Guid(7cecca77439806548b8dbf262ab7c587) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution With Level Of Detail/Bluntspear/Bluntspear Leaf B.prefab using Guid(7cecca77439806548b8dbf262ab7c587) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '033614c75604c8cc95cbd63b66af1b8b') in 0.008663 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 13
+========================================================================
+Received Import Request.
+  Time since last request: 0.000086 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution With Level Of Detail/Bluntspear/Bluntspear 4D.prefab
+  artifactKey: Guid(85f59c75dad79194aac79b7e81740725) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution With Level Of Detail/Bluntspear/Bluntspear 4D.prefab using Guid(85f59c75dad79194aac79b7e81740725) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4b42f401b0a1e625037baa40b3538303') in 0.011951 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 28
+========================================================================
+Received Import Request.
+  Time since last request: 0.000042 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution With Level Of Detail/Bluntspear/Bluntspear 1D.prefab
+  artifactKey: Guid(672a1e0a2af429e45ba6d19b1182e1a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution With Level Of Detail/Bluntspear/Bluntspear 1D.prefab using Guid(672a1e0a2af429e45ba6d19b1182e1a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12a86e183bf2b12f0ff415d20c974586') in 0.013754 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 28
+========================================================================
+Received Import Request.
+  Time since last request: 0.000040 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution With Level Of Detail/Bluntspear/Bluntspear 2D.prefab
+  artifactKey: Guid(d6aa86fcea600c544aa7b78f16c77e39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Prefabs/High Resolution With Level Of Detail/Bluntspear/Bluntspear 2D.prefab using Guid(d6aa86fcea600c544aa7b78f16c77e39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be7dfa304c8c4ec19ef169f3bf90bf26') in 0.011348 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 28
+========================================================================
+Received Import Request.
+  Time since last request: 10.675319 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Med Res Materials/Texture Atlas 1 Albedo.png
+  artifactKey: Guid(ccf276c4439551f4286437d5bba7ee23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Med Res Materials/Texture Atlas 1 Albedo.png using Guid(ccf276c4439551f4286437d5bba7ee23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c1f0ffa3abc3d53a11cf51cf08219c7f') in 0.023270 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000081 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Med Res Materials/Texture Atlas 1 Normal.png
+  artifactKey: Guid(c1077e1d750550b488c69e3108022fdb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Med Res Materials/Texture Atlas 1 Normal.png using Guid(c1077e1d750550b488c69e3108022fdb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9172427d0fbb7aa528b01fab28cf93b9') in 0.005861 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000074 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Med Res Materials/Texture Atlas 1 Specular.png
+  artifactKey: Guid(47f950c489dfb084182cf43804f71565) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Med Res Materials/Texture Atlas 1 Specular.png using Guid(47f950c489dfb084182cf43804f71565) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'adefa2e613491f0ea913dedd230eb88e') in 0.005542 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000091 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Med Res Materials/Texture Atlas 2 Specular.png
+  artifactKey: Guid(3a426df2cad9b324ead45d3e347a6dbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Med Res Materials/Texture Atlas 2 Specular.png using Guid(3a426df2cad9b324ead45d3e347a6dbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa53e40097fb7d115eaf6458395052c1') in 0.005920 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000097 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Med Res Materials/Texture Atlas 2 Albedo.png
+  artifactKey: Guid(c5a496d426f1cf34e925d71bb578e1db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Med Res Materials/Texture Atlas 2 Albedo.png using Guid(c5a496d426f1cf34e925d71bb578e1db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cadfc2d1f455900e352293dfdaab7d30') in 0.006586 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 6.907831 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Billboard Material/Billboard Atlas Albedo.png
+  artifactKey: Guid(59ce122b8404d674594ffcf531b663fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Billboard Material/Billboard Atlas Albedo.png using Guid(59ce122b8404d674594ffcf531b663fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab8f0ba691506c59585b289a4ba0723d') in 0.020356 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000047 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Billboard Material/Billboard Bump.png
+  artifactKey: Guid(5bb251c76317e6b4c9177a0cb8a70b37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Billboard Material/Billboard Bump.png using Guid(5bb251c76317e6b4c9177a0cb8a70b37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b6b7be479c3fb0bfe066136ba868ac8') in 0.007412 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000110 seconds.
+  path: Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Billboard Material/Billboard Normal.png
+  artifactKey: Guid(884371f278b2ce34193e0b42a8d6312d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UnityPrefabAssets/Splash of Color - Unique Photogrammetry Plants/Billboard Material/Billboard Normal.png using Guid(884371f278b2ce34193e0b42a8d6312d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '576093756bf8d07db463e7f2f2f2f97b') in 0.007172 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
